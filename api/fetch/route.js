@@ -8,14 +8,19 @@ export default async function handler(req) {
   try {
     const resp = await fetch(url);
     const html = await resp.text();
+
     return new Response(JSON.stringify({ content: html }), {
       status: 200,
-      headers: { 'Content-Type': 'application/json' },
+      headers: {
+        'Content-Type': 'application/json',
+      },
     });
   } catch (e) {
     return new Response(JSON.stringify({ error: '無法抓取頁面內容' }), {
       status: 500,
-      headers: { 'Content-Type': 'application/json' },
+      headers: {
+        'Content-Type': 'application/json',
+      },
     });
   }
 }
