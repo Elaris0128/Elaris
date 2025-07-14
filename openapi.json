@@ -6,11 +6,7 @@
   },
   "servers": [
     {
-<<<<<<< HEAD
       "url": "https://elaris-eh5bsrnic-joshs-projects-f8d0a3d8.vercel.app"
-=======
-      "url": "https://your-vercel-url.vercel.app"
->>>>>>> ae5c595582b18173982c0641d28ffa88c129029f
     }
   ],
   "paths": {
