@@ -6,7 +6,7 @@
   },
   "servers": [
     {
-      "url": "https://elaris-coral.vercel.app"
+      "url": "https://your-vercel-url.vercel.app"
     }
   ],
   "paths": {
