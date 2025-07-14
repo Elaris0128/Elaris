@@ -1,0 +1,48 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Elaris 查詢 API",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://elaris-eh5bsrnic-joshs-projects-f8d0a3d8.vercel.app"
+    }
+  ],
+  "paths": {
+    "/api/fetch": {
+      "get": {
+        "summary": "查詢固定或指定頁面內容",
+        "operationId": "fetchData",
+        "parameters": [
+          {
+            "name": "q",
+            "in": "query",
+            "required": false,
+            "description": "查詢頁面代稱，例如 roles/elarias",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "成功取得內容",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "content": {
+                      "type": "string"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
