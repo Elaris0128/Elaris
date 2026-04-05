@@ -1,0 +1,17 @@
+# 靈穹洋區域包
+
+- [開局導覽](/C:/Users/rabbi/Desktop/Elaris/content/scenarios/regions/spiritvault-ocean/starter-overview.md)
+- [開局任務](/C:/Users/rabbi/Desktop/Elaris/content/scenarios/regions/spiritvault-ocean/starter-quests.md)
+- [地方迴路](/C:/Users/rabbi/Desktop/Elaris/content/scenarios/regions/spiritvault-ocean/location-circuit.md)
+- [商店與服務](/C:/Users/rabbi/Desktop/Elaris/content/scenarios/regions/spiritvault-ocean/shops-and-services.md)
+- [遭遇表](/C:/Users/rabbi/Desktop/Elaris/content/scenarios/regions/spiritvault-ocean/encounters.md)
+- [任務線總表](/C:/Users/rabbi/Desktop/Elaris/content/scenarios/regions/spiritvault-ocean/questlines.md)
+- [任務細節](/C:/Users/rabbi/Desktop/Elaris/content/scenarios/regions/spiritvault-ocean/quest-details.md)
+- [任務分支](/C:/Users/rabbi/Desktop/Elaris/content/scenarios/regions/spiritvault-ocean/quest-branches.md)
+- [任務後果](/C:/Users/rabbi/Desktop/Elaris/content/scenarios/regions/spiritvault-ocean/quest-consequences.md)
+- [學習入口](/C:/Users/rabbi/Desktop/Elaris/content/scenarios/regions/spiritvault-ocean/learning-entrypoints.md)
+- [玩法補充](/C:/Users/rabbi/Desktop/Elaris/content/scenarios/regions/spiritvault-ocean/play-expansion.md)
+- [靈穹洋總覽](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/oceans/spiritvault-ocean.md)
+- [靈穹洋地方包索引](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/spiritvault-ocean-location-index.md)
+- [靈穹洋探索點索引](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/spiritvault-ocean-exploration-index.md)
+- [靈穹洋角色索引](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/spiritvault-ocean/README.md)

@@ -1,0 +1,95 @@
+﻿{
+    "runtime":  {
+                    "current_pressure_tags":  [
+                                                  "wrong-route",
+                                                  "short-stay-trade",
+                                                  "dive-risk"
+                                              ],
+                    "linked_npcs":  [
+                                        "character-whispersea-fanchaoshu",
+                                        "character-whispersea-wuduocen"
+                                    ],
+                    "save_name":  "無名潮客-whispersea-save.json",
+                    "learned_job_directions":  [
+
+                                               ]
+                },
+    "reputation":  {
+                       "region":  "neutral",
+                       "factions":  {
+
+                                    },
+                       "tracks":  {
+
+                                  }
+                   },
+    "updated_at":  "2026-04-05T00:43:18.9394972+08:00",
+    "inventory":  {
+                      "currency":  10,
+                      "equipped_items":  [
+
+                                         ],
+                      "inventory_slots":  [
+                                              "封聲袋",
+                                              "短窗照燈",
+                                              "簡索繩"
+                                          ],
+                      "containers":  [
+                                         "潮布肩包"
+                                     ]
+                  },
+    "created_at":  "2026-04-05T00:43:18.7219973+08:00",
+    "playtime_minutes":  0,
+    "quests":  {
+                   "active_quests":  [
+                                         {
+                                             "quest_id":  "whispersea-quest-02",
+                                             "status":  "active",
+                                             "step_index":  1,
+                                             "progress_log":  "看氣泡與回流",
+                                             "started_at":  "2026-04-05T00:43:18.7557757+08:00",
+                                             "completed_at":  null
+                                         }
+                                     ],
+                   "completed_quests":  [
+
+                                        ],
+                   "failed_quests":  [
+
+                                     ]
+               },
+    "seed":  "whispersea-tidesigh-sea-cave",
+    "character":  {
+                      "name":  "無名潮客",
+                      "race":  "諾魯因人",
+                      "branch":  null,
+                      "origin_region":  "whispersea",
+                      "blank_slate_status":  "見習",
+                      "job_direction_primary":  "未定",
+                      "job_direction_secondary":  "未定",
+                      "traits":  [
+
+                                 ],
+                      "flaws":  [
+
+                                ],
+                      "background":  "白身開局"
+                  },
+    "location":  {
+                     "current_region_id":  "whispersea",
+                     "current_scene_id":  "tidesigh-sea-cave",
+                     "current_scene_name":  "潮息海窟",
+                     "time_of_day":  "dawn",
+                     "day_count":  1
+                 },
+    "save_version":  "v2",
+    "notebook":  {
+                     "known_clues":  [
+                                         "錯返點只在一段短窗提早閉合",
+                                         "潛路本體還能救"
+                                     ],
+                     "revealed_truths":  [
+
+                                         ]
+                 }
+}

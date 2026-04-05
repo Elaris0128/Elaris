@@ -1,0 +1,562 @@
+{
+  "pack_version": "v1",
+  "kind": "region-pack",
+  "region_id": "whispersea",
+  "display_name": "幽語海",
+  "source_mode": "A1",
+  "opening_mode": "blank-slate-first",
+  "recommended_for": [
+    "諾魯因人、潮霧之裔與偏穩健探索的白身開局",
+    "想從近岸、航線、海上聚落與低度灰線壓力開始熟悉世界的玩家"
+  ],
+  "learning_curve": [
+    "先學怎麼看海路、人情與地方規矩，再碰危險水域。",
+    "先用短距移動、低階交涉與單點任務熟悉流程。",
+    "這裡適合從白身、見習與跟行者一路長成引水、打撈或採樣方向。"
+  ],
+  "service_tags": [
+    "潮布補修與簡索繩整備",
+    "深潛穩瓶與封樣短倉",
+    "夜航照燈、借路憑記與小額補給",
+    "灰線換價與緊急渡送議價"
+  ],
+  "runtime_tags": [
+    "fog",
+    "deep-dive",
+    "ritual-law",
+    "grayline",
+    "tide-route",
+    "shore-caves"
+  ],
+  "start_points": [
+    {
+      "id": "silent-rock-islet",
+      "name": "寂岩孤島",
+      "why_start_here": "你從近岸碎流帶被帶上這座小島，眼前是潮骨立石、守誓繩結與還沒乾透的海霧。這裡是最適合白身開局的落點，因為第一批人情、規矩與風險都看得見。",
+      "pressure_tags": [
+        "old-oath",
+        "ritual-dispute",
+        "social-pressure"
+      ],
+      "recommended_first_quest": "whispersea-quest-01",
+      "linked_npcs": [
+        "character-whispersea-chaoguheng",
+        "character-whispersea-yuhuanpo"
+      ],
+      "source_paths": [
+        "content/scenarios/regions/whispersea/starter-overview.md",
+        "content/scenarios/quests/whispersea-quest-01.md"
+      ]
+    },
+    {
+      "id": "tidesigh-sea-cave",
+      "name": "潮息海窟",
+      "why_start_here": "潮息海窟靠近潛路與短窗交易點，能最快碰到水路消息、潛行風險與借道規矩。你在這裡開局，通常會先學會分辨一條路是不是能走。",
+      "pressure_tags": [
+        "wrong-route",
+        "short-stay-trade",
+        "dive-risk"
+      ],
+      "recommended_first_quest": "whispersea-quest-02",
+      "linked_npcs": [
+        "character-whispersea-fanchaoshu",
+        "character-whispersea-wuduocen"
+      ],
+      "source_paths": [
+        "content/scenarios/regions/whispersea/starter-overview.md",
+        "content/scenarios/quests/whispersea-quest-02.md"
+      ]
+    },
+    {
+      "id": "silent-chant-cape",
+      "name": "靜唱索岬",
+      "why_start_here": "索岬夜裡總有鈴聲與霧燈，界線、訊號與看守責任在這裡比什麼都重要。白身在此開局，常會先被捲進一件看似小、其實關係到整條路安危的事。",
+      "pressure_tags": [
+        "boundary-law",
+        "signal-anomaly",
+        "night-watch"
+      ],
+      "recommended_first_quest": "whispersea-quest-06",
+      "linked_npcs": [
+        "character-whispersea-jialingniang",
+        "character-whispersea-wuduocen"
+      ],
+      "source_paths": [
+        "content/scenarios/regions/whispersea/starter-overview.md",
+        "content/scenarios/quests/whispersea-quest-06.md"
+      ]
+    }
+  ],
+  "location_circuits": [
+    {
+      "id": "noruin-home-line",
+      "name": "諾魯因近岸線",
+      "route": [
+        "寂岩孤島",
+        "潮息海窟",
+        "返潮泊棚"
+      ],
+      "source_path": "content/scenarios/regions/whispersea/location-circuit.md"
+    },
+    {
+      "id": "deep-tide-line",
+      "name": "深潮下探線",
+      "route": [
+        "返潮泊棚",
+        "霧腹深棚",
+        "潮骨下層"
+      ],
+      "source_path": "content/scenarios/regions/whispersea/location-circuit.md"
+    },
+    {
+      "id": "hazard-sea-line",
+      "name": "危海封樣線",
+      "route": [
+        "寂岩孤島",
+        "黑潮借道口",
+        "錯返潛窗"
+      ],
+      "source_path": "content/scenarios/regions/whispersea/location-circuit.md"
+    },
+    {
+      "id": "cape-seam-line",
+      "name": "索岬夜巡線",
+      "route": [
+        "靜唱索岬",
+        "斷索哨棚"
+      ],
+      "source_path": "content/scenarios/regions/whispersea/location-circuit.md"
+    }
+  ],
+  "starter_quest_pool": [
+    {
+      "quest_id": "whispersea-quest-01",
+      "title": "寂岩孤島的潮骨舊誓",
+      "entry_point_id": "silent-rock-islet",
+      "arc": "守誓與近岸人情",
+      "chapter_tier": "starter",
+      "core_conflict": "島上的潮骨立石被人動過，舊誓痕與新刻痕互相打架，若今晚前不查清，守誓人會把外來短工一律趕走。",
+      "key_npcs": [
+        "character-whispersea-chaoguheng",
+        "character-whispersea-yuhuanpo",
+        "character-whispersea-jialingniang"
+      ],
+      "decision": "你要站在守誓的一邊，還是替怕被逐出的短工們找一條不傷規矩的退路？",
+      "progress": {
+        "steps": [
+          {
+            "step_id": "inspect-oath-stone",
+            "title": "檢視潮骨立石",
+            "location_id": "silent-rock-islet",
+            "goal_text": "先靠近潮骨立石，確認舊誓痕到底是被磨掉、被改刻，還是只是潮鹽覆住了。",
+            "advance_command": "inspect-oath-stone",
+            "advance_aliases": [
+              "inspect",
+              "stone",
+              "立石",
+              "檢查立石"
+            ],
+            "result_text": "你在潮骨紋理裡找到一段不屬於本島手法的細刻痕，像是有人急著補救，卻反而把舊線弄得更亂。",
+            "clues": [
+              "潮骨立石上有外來補刻痕",
+              "舊誓沒有整段斷掉，只是被錯手補壞"
+            ]
+          },
+          {
+            "step_id": "ask-yuhuanpo",
+            "title": "向語環婆問舊歌",
+            "location_id": "silent-rock-islet",
+            "goal_text": "把立石上的新痕描述給語環婆聽，請她對照舊歌中的誓紋順序。",
+            "advance_command": "ask-yuhuanpo",
+            "advance_aliases": [
+              "ask",
+              "婆",
+              "問語環婆",
+              "舊歌"
+            ],
+            "result_text": "語環婆用低低的調子把舊歌唱了一遍，指出真正的問題不是斷誓，而是有人把本該留空的轉句填滿了。",
+            "clues": [
+              "誓紋有一段轉句本該留空",
+              "補刻的人可能想止住恐慌而非破壞守誓"
+            ]
+          },
+          {
+            "step_id": "compare-bell-line",
+            "title": "去索岬對照鈴線記錄",
+            "location_id": "silent-chant-cape",
+            "goal_text": "帶著你記下的刻痕去找岬鈴娘，看看索岬的舊鈴線簿有沒有相同手法。",
+            "advance_command": "compare-bell-line",
+            "advance_aliases": [
+              "compare",
+              "bell",
+              "鈴線",
+              "對照索岬"
+            ],
+            "result_text": "岬鈴娘翻出夜巡鈴線簿，證明那種補刻手法其實是臨時止慌用的舊海法，只是被錯放到守誓場景裡了。",
+            "clues": [
+              "補刻手法來自索岬夜巡舊海法",
+              "犯錯者更像無知補救，不像蓄意褻誓"
+            ]
+          }
+        ],
+        "completion": {
+          "turn_in_location_id": "silent-rock-islet",
+          "turn_in_npc_id": "character-whispersea-chaoguheng",
+          "turn_in_text": "潮骨衡聽完你的說明後沒有立刻寬恕任何人，但他承認你找回了『分得清錯手與惡意』這條線，於是把趕人改成補誓與賠工。",
+          "rewards": {
+            "currency": 18,
+            "items": [
+              "潮骨刻片",
+              "短潮路引"
+            ],
+            "reputation": {
+              "track_id": "whispersea-local",
+              "delta": 1,
+              "label": "幽語海近岸信任"
+            },
+            "job_directions": [
+              "守誓學徒",
+              "引路見習"
+            ]
+          }
+        }
+      },
+      "source_paths": [
+        "content/scenarios/regions/whispersea/starter-quests.md",
+        "content/scenarios/quests/whispersea-quest-01.md"
+      ]
+    },
+    {
+      "quest_id": "whispersea-quest-02",
+      "title": "潮息海窟的錯返潛路",
+      "entry_point_id": "tidesigh-sea-cave",
+      "arc": "潛路與短窗交易",
+      "chapter_tier": "starter",
+      "core_conflict": "一條本來給短窗採樣手用的潛路開始把人帶回錯的出口，若再不標出安全線，下一批人會在黑潮窗口裡失散。",
+      "key_npcs": [
+        "character-whispersea-fanchaoshu",
+        "character-whispersea-wuduocen"
+      ],
+      "decision": "你要先保住採樣窗口，還是先封掉整條路，哪怕會惹怒等著吃這口飯的人？",
+      "progress": {
+        "steps": [
+          {
+            "step_id": "chart-bubbles",
+            "title": "看氣泡與回流",
+            "location_id": "tidesigh-sea-cave",
+            "goal_text": "先站到海窟邊，記下錯返窗口的氣泡節奏和回流方向。",
+            "advance_command": "chart-bubbles",
+            "advance_aliases": [
+              "chart",
+              "bubbles",
+              "看回流",
+              "記氣泡"
+            ],
+            "result_text": "你發現回流節奏不是整條路都壞了，而是某一段短窗變得提早閉合，才把人推回錯出口。",
+            "clues": [
+              "錯返點只在一段短窗提早閉合",
+              "潛路本體還能救"
+            ]
+          },
+          {
+            "step_id": "ask-fanchaoshu",
+            "title": "問返潮叔舊路法",
+            "location_id": "tidesigh-sea-cave",
+            "goal_text": "把你看到的回流節奏告訴返潮叔，確認以前遇到類似狀況怎麼留命。",
+            "advance_command": "ask-fanchaoshu",
+            "advance_aliases": [
+              "ask",
+              "叔",
+              "問返潮叔",
+              "舊路法"
+            ],
+            "result_text": "返潮叔指出，只要在錯返點前補上一段臨時記繩，再改一個出入節點，就能先保住今晚這批人。",
+            "clues": [
+              "可以用臨時記繩保住短窗採樣手",
+              "需要有人去索岬借穩燈與記繩"
+            ]
+          },
+          {
+            "step_id": "set-safe-line",
+            "title": "去索岬設安全線",
+            "location_id": "silent-chant-cape",
+            "goal_text": "帶著返潮叔的說法去找霧舵岑，在索岬把暫時安全線的燈與記繩準備好。",
+            "advance_command": "set-safe-line",
+            "advance_aliases": [
+              "setline",
+              "safe-line",
+              "設安全線",
+              "借燈"
+            ],
+            "result_text": "霧舵岑同意借你一盞短窗照燈和一束記繩，條件是你得把路標記得讓下一個白身也看得懂。",
+            "clues": [
+              "索岬願意先借裝備救急",
+              "安全線要做成低經驗者也能辨認"
+            ]
+          }
+        ],
+        "completion": {
+          "turn_in_location_id": "tidesigh-sea-cave",
+          "turn_in_npc_id": "character-whispersea-wuduocen",
+          "turn_in_text": "霧舵岑沿著你設的臨時安全線試走了一遍，最後只說了一句『這條線今晚能帶人回來』，就把一小包工價和封蠟交到你手裡。",
+          "rewards": {
+            "currency": 16,
+            "items": [
+              "防潮記繩",
+              "穩瓶封蠟"
+            ],
+            "reputation": {
+              "track_id": "whispersea-route",
+              "delta": 1,
+              "label": "幽語海水路評價"
+            },
+            "job_directions": [
+              "引水見習",
+              "採樣短工"
+            ]
+          }
+        }
+      },
+      "source_paths": [
+        "content/scenarios/regions/whispersea/starter-quests.md",
+        "content/scenarios/quests/whispersea-quest-02.md"
+      ]
+    },
+    {
+      "quest_id": "whispersea-quest-06",
+      "title": "靜唱索岬的斷索號",
+      "entry_point_id": "silent-chant-cape",
+      "arc": "岬哨與界線值夜",
+      "chapter_tier": "starter",
+      "core_conflict": "索岬夜裡的斷索號響錯了兩次，若這不是繩結鬆脫，而是有人借著霧夜試探界線，那今晚就可能有船走進不該走的水域。",
+      "key_npcs": [
+        "character-whispersea-jialingniang",
+        "character-whispersea-wuduocen",
+        "character-whispersea-chaoguheng"
+      ],
+      "decision": "你要把它當成單純維修，還是當成有人在試探海路紅線？",
+      "progress": {
+        "steps": [
+          {
+            "step_id": "inspect-broken-line",
+            "title": "檢查斷索與鈴結",
+            "location_id": "silent-chant-cape",
+            "goal_text": "先到索岬外端看斷索的磨損方向，確認是自然鬆脫還是有人動過。",
+            "advance_command": "inspect-broken-line",
+            "advance_aliases": [
+              "inspect",
+              "line",
+              "檢查斷索",
+              "鈴結"
+            ],
+            "result_text": "索繩的磨痕集中在同一個高度，不像風久磨出的斷口，更像有人從小舟上試著勾扯。",
+            "clues": [
+              "斷索高度不自然",
+              "可能有外船貼近索岬試探"
+            ]
+          },
+          {
+            "step_id": "ask-jialingniang",
+            "title": "向岬鈴娘問夜號",
+            "location_id": "silent-chant-cape",
+            "goal_text": "把斷口情況告訴岬鈴娘，問清楚近兩夜的錯號到底是哪一段訊序出錯。",
+            "advance_command": "ask-jialingniang",
+            "advance_aliases": [
+              "ask",
+              "鈴娘",
+              "問岬鈴娘",
+              "夜號"
+            ],
+            "result_text": "岬鈴娘說錯號不是亂敲，而是被故意模仿成『求借道』的前半段，差一點就會讓守線的人誤開一條縫。",
+            "clues": [
+              "對方懂索岬訊序的前半段",
+              "目的是逼守線人誤判借道信號"
+            ]
+          },
+          {
+            "step_id": "carry-spare-line",
+            "title": "去寂岩取備索",
+            "location_id": "silent-rock-islet",
+            "goal_text": "去寂岩孤島搬回一捆備索，並向潮骨衡確認該不該把這件事視為正式試探。",
+            "advance_command": "carry-spare-line",
+            "advance_aliases": [
+              "carry",
+              "spare-line",
+              "取備索",
+              "問潮骨衡"
+            ],
+            "result_text": "潮骨衡沒有直接把事情升到封海，但他點頭讓你把備索帶走，並要你回索岬後記下任何再現的錯號節奏。",
+            "clues": [
+              "守誓端也認為這不像單純事故",
+              "索岬今夜要加重值守"
+            ]
+          }
+        ],
+        "completion": {
+          "turn_in_location_id": "silent-chant-cape",
+          "turn_in_npc_id": "character-whispersea-jialingniang",
+          "turn_in_text": "岬鈴娘接過備索與你的記錄，把今晚的值守名單往你這邊挪了一格。那不是正式錄用，但已經足夠表示你被當成能站在邊線上的人。",
+          "rewards": {
+            "currency": 20,
+            "items": [
+              "哨鈴線扣",
+              "借燈憑記"
+            ],
+            "reputation": {
+              "track_id": "whispersea-watch",
+              "delta": 1,
+              "label": "幽語海岬哨評價"
+            },
+            "job_directions": [
+              "岬哨候補",
+              "夜巡短工"
+            ]
+          }
+        }
+      },
+      "source_paths": [
+        "content/scenarios/regions/whispersea/starter-quests.md",
+        "content/scenarios/quests/whispersea-quest-06.md"
+      ]
+    }
+  ],
+  "encounter_seeds": [
+    {
+      "type": "social-anomaly",
+      "text": "霧裡傳來一段唱到一半就停住的海歌，附近的人都假裝沒聽見，像是在等誰先開口。",
+      "source_path": "content/scenarios/regions/whispersea/encounters.md"
+    },
+    {
+      "type": "monster-blockage",
+      "text": "一道巨大的暗影從近岸下層滑過，水面只留下被切斷一半的潮泡線，整條小路都跟著安靜下來。",
+      "source_path": "content/scenarios/regions/whispersea/encounters.md"
+    },
+    {
+      "type": "ambush",
+      "text": "你剛轉過礁角，就看到一盞故意壓低的灰燈在霧後晃了一下，像是在等誰先踩進錯路。",
+      "source_path": "content/scenarios/regions/whispersea/encounters.md"
+    },
+    {
+      "type": "grayline-pressure",
+      "text": "一名灰線買手開口就報高價，要你別問貨從哪裡來，只問肯不肯今晚幫他走一小段路。",
+      "source_path": "content/scenarios/regions/whispersea/encounters.md"
+    },
+    {
+      "type": "inspection",
+      "text": "一隊值守人舉著低罩燈靠近，先看你腳邊的水痕，再看你手裡有沒有借路憑記。",
+      "source_path": "content/scenarios/regions/whispersea/encounters.md"
+    }
+  ],
+  "npc_hooks": [
+    {
+      "id": "character-whispersea-chaoguheng",
+      "name": "潮骨衡",
+      "role": "寂岩孤島的守誓衡定者",
+      "intro_use": "他看人的方式像在量潮線，不快不慢，但你會很清楚地知道他在判斷你能不能被留在這條路上。",
+      "source_paths": [
+        "content/world/07-characters/whispersea/chaoguheng.md",
+        "content/scenarios/quests/whispersea-quest-01.md"
+      ]
+    },
+    {
+      "id": "character-whispersea-yuhuanpo",
+      "name": "語環婆",
+      "role": "近岸舊歌與轉句記憶者",
+      "intro_use": "她說話像唱舊潮歌，總把一句話留半拍，等你自己把沒說出口的那部分接上。",
+      "source_paths": [
+        "content/world/07-characters/whispersea/README.md",
+        "content/scenarios/quests/whispersea-quest-01.md"
+      ]
+    },
+    {
+      "id": "character-whispersea-wuduocen",
+      "name": "霧舵岑",
+      "role": "錯返潛路與借道窗口的判讀手",
+      "intro_use": "他看海窟和看人一樣，先看你會不會把話講成一條能走的線，再決定要不要替你補第二句。",
+      "source_paths": [
+        "content/world/07-characters/whispersea/wuduocen.md",
+        "content/scenarios/quests/whispersea-quest-02.md",
+        "content/scenarios/quests/whispersea-quest-06.md"
+      ]
+    },
+    {
+      "id": "character-whispersea-fanchaoshu",
+      "name": "返潮叔",
+      "role": "熟悉舊潛路與回流脾氣的老路手",
+      "intro_use": "他總是先看一眼水色才開口，像是每一句話都要先問過潮路自己肯不肯答應。",
+      "source_paths": [
+        "content/world/07-characters/whispersea/fanchaoshu.md",
+        "content/scenarios/quests/whispersea-quest-02.md"
+      ]
+    },
+    {
+      "id": "character-whispersea-jialingniang",
+      "name": "岬鈴娘",
+      "role": "靜唱索岬的哨鈴看守",
+      "intro_use": "她說話不大聲，卻總像隔著霧把聲音準確敲到你耳後，讓你很難裝作自己沒聽懂。",
+      "source_paths": [
+        "content/world/07-characters/whispersea/jialingniang.md",
+        "content/scenarios/quests/whispersea-quest-06.md"
+      ]
+    }
+  ],
+  "blank_slate_roles": [
+    {
+      "status": "跟行者",
+      "best_fit": [
+        "引水見習前身",
+        "打撈助手",
+        "聚落通跑"
+      ],
+      "why": "你還沒有獨立走一條路的資格，但已經能跟在熟手旁邊學會怎麼看潮、怎麼閉嘴、什麼時候該先保命。",
+      "source_paths": [
+        "content/game/00-player-kit/player-blank-slate-opening-mode.md",
+        "content/scenarios/regions/whispersea/starter-overview.md"
+      ]
+    },
+    {
+      "status": "見習",
+      "best_fit": [
+        "判潮見習",
+        "補修短工",
+        "封樣學徒"
+      ],
+      "why": "你已經有一點被交代事情的資格，但還不是能替人擔責的人。你做得好，地方會慢慢把更正式的工具和名義交給你。",
+      "source_paths": [
+        "content/game/00-player-kit/player-blank-slate-opening-mode.md",
+        "content/scenarios/regions/whispersea/shops-and-services.md"
+      ]
+    },
+    {
+      "status": "短工",
+      "best_fit": [
+        "夜哨雜役",
+        "借道跑腿",
+        "近岸補給搬運"
+      ],
+      "why": "你是最容易被捲進現場的人，因為大家都會先把最急、最不值錢、卻也最能看出你靠不靠得住的工作塞給你。",
+      "source_paths": [
+        "content/game/00-player-kit/player-blank-slate-opening-mode.md",
+        "content/scenarios/regions/whispersea/shops-and-services.md"
+      ]
+    }
+  ],
+  "source_paths": [
+    "content/scenarios/regions/whispersea/README.md",
+    "content/scenarios/regions/whispersea/starter-overview.md",
+    "content/scenarios/regions/whispersea/starter-quests.md",
+    "content/scenarios/regions/whispersea/location-circuit.md",
+    "content/scenarios/regions/whispersea/encounters.md",
+    "content/scenarios/regions/whispersea/questlines.md",
+    "content/scenarios/regions/whispersea/learning-entrypoints.md",
+    "content/scenarios/regions/whispersea/shops-and-services.md",
+    "content/scenarios/quests/whispersea-quest-01.md",
+    "content/scenarios/quests/whispersea-quest-02.md",
+    "content/scenarios/quests/whispersea-quest-06.md",
+    "content/world/07-characters/whispersea/README.md",
+    "content/world/07-characters/whispersea/chaoguheng.md",
+    "content/world/07-characters/whispersea/wuduocen.md",
+    "content/world/07-characters/whispersea/jialingniang.md",
+    "content/game/00-player-kit/player-blank-slate-opening-mode.md"
+  ]
+}

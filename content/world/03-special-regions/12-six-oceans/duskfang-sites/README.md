@@ -1,0 +1,15 @@
+# 暮牙海探索點索引
+
+- [黑牙逆潮眼](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/duskfang-sites/blackfang-backflow-eye.md)
+- [偽燈裂棚](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/duskfang-sites/falsebeacon-splitshack.md)
+- [腐索纏井](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/duskfang-sites/rotshroud-cable-well.md)
+- [鯊眠灰槽](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/duskfang-sites/sharksleep-gray-trough.md)
+- [骨錨沉場](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/duskfang-sites/boneanchor-sinkfield.md)
+- [斷碑航口](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/duskfang-sites/brokenstele-pass.md)
+- [暮潮葬箱灘](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/duskfang-sites/dusktide-casket-shore.md)
+- [霧牙偷泊縫](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/duskfang-sites/mistfang-stowberth-slot.md)
+- [浮台灶堂](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/duskfang-sites/floating-hearth-platform.md)
+- [潮窟發酵庫](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/duskfang-sites/tidecavern-ferment-vault.md)
+- [去刺處理間](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/duskfang-sites/deboning-cutlab.md)
+- [誓宴試味廳](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/duskfang-sites/oathbanquet-tasting-hall.md)
+- [影味篩棚](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/duskfang-sites/shadowtaste-screen.md)

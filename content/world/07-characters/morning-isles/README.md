@@ -1,0 +1,67 @@
+﻿# 晨穗群島角色索引
+
+## 核心角色
+- [黎赫安](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/lihean.md)
+- [陶暮簿](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/taomubu.md)
+- [鹽硯白](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/yanyanbai.md)
+- [潮岬戍](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/chaojiashu.md)
+- [蘇穗衡](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/susuiheng.md)
+- [堡冶深](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/baoyeshen.md)
+- [鷗燼岬](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/oujinjia.md)
+- [牧蘆靜](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/mulujing.md)
+- [蘆燈若](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/ludengruo.md)
+- [商綴澄](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/shangzhuicheng.md)
+- [潛織蘭](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/qianzhilan.md)
+- [探穗眠](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/tansuimian.md)
+- [羽岬](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/yujia.md)
+- [夜簿](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/yebu.md)
+- [蘭鏡](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/lanjing.md)
+- [燈蘚姥](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/dengxianlao.md)
+- [白浪](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/bailang.md)
+- [岬](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/jia.md)
+- [聞票](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/wenpiao.md)
+- [禾汀](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/heting.md)
+- [葦祈](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/weiqi.md)
+- [沉簍](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/chenlou.md)
+- [折楫](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/zheji.md)
+- [鹽笙](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/yansheng.md)
+- [蘆骨眠](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/lugumian.md)
+- [券汀](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/quanting.md)
+- [帆岱](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/fandai.md)
+- [礁實](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/jiaoshi.md)
+- [霧](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/wu.md)
+- [沼眠](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/zaomian.md)
+- [稅繭](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/shuijian.md)
+- [契潮](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/qichao.md)
+- [鹵言](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/luyan.md)
+- [黑桅岑](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/heiweicen.md)
+- [潮針](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/chaozhen.md)
+- [鷗席](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/guxi.md)
+
+## 支援角色
+- [支援角色名錄](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/supporting-cast.md)
+- 燈纜叔
+- 黎埠菱
+- 麥渠珊
+- 契旗陌
+- 鹽脈娘
+- 潮骨鐸
+- 礁冊人
+- 鷗棚綰
+- 蘆舟眠
+- 潮票望
+- 汐紗簍
+- 祈穗亭
+- 潮梭鳴
+- 船縫照
+- 沼霧錨
+- 雙旗沄
+- 海稅岑
+- 暗泊裊
+- 灰袋瑗
+- 礁火瞻
+- 沼舟妲
+- 盤鹵婆
+
+## 補充
+- 晨穗角色很少只屬於一條線，他們常同時被港契、糧契、潮盜誓規、黑市默契與地方祭禁牽著走。

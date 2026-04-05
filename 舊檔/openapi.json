@@ -1,0 +1,172 @@
+﻿{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Elaris Lore API",
+    "version": "1.1.0",
+    "description": "提供給 ChatGPT 自訂 GPT Actions 使用的 Elaris 世界資料查詢 API。先用 /api/lore/search 找檔案，再用 /api/lore/document 讀全文。"
+  },
+  "servers": [
+    {
+      "url": "https://your-elaris-vercel-url.vercel.app",
+      "description": "https://github.com/Elaris0128/Elaris.git。"
+    }
+  ],
+  "paths": {
+    "/api/lore/search": {
+      "get": {
+        "summary": "搜尋 Elaris lore 文件",
+        "description": "用關鍵字搜尋世界觀、規則、任務或知識包文件。建議先呼叫這個端點，再用 document 端點讀全文。",
+        "operationId": "searchLoreDocuments",
+        "parameters": [
+          {
+            "name": "q",
+            "in": "query",
+            "required": true,
+            "description": "搜尋關鍵字，例如：諾魯因人、幽語海、熾潮之脈。",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "scope",
+            "in": "query",
+            "required": false,
+            "description": "限制搜尋範圍，可用值：world、game、scenarios、docs。",
+            "schema": {
+              "type": "string",
+              "enum": ["world", "game", "scenarios", "docs"]
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "description": "最多回傳幾筆結果，預設 5，最大 10。",
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 10,
+              "default": 5
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "成功回傳符合條件的文件摘要。",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "query": { "type": "string" },
+                    "scope": {
+                      "type": ["string", "null"]
+                    },
+                    "limit": { "type": "integer" },
+                    "count": { "type": "integer" },
+                    "items": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "id": { "type": "string" },
+                          "scope": { "type": "string" },
+                          "path": { "type": "string" },
+                          "title": { "type": "string" },
+                          "excerpt": { "type": "string" }
+                        },
+                        "required": ["id", "scope", "path", "title", "excerpt"]
+                      }
+                    }
+                  },
+                  "required": ["query", "scope", "limit", "count", "items"]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/lore/document": {
+      "get": {
+        "summary": "讀取指定 Elaris lore 文件全文",
+        "description": "用已知路徑取得單一文件的完整內容、標題、摘要與標題結構。",
+        "operationId": "getLoreDocumentByPath",
+        "parameters": [
+          {
+            "name": "path",
+            "in": "query",
+            "required": true,
+            "description": "文件相對路徑，例如 content/world/05-races/noruin-lineage.md。",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "成功回傳單一 lore 文件。",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "id": { "type": "string" },
+                    "path": { "type": "string" },
+                    "scope": { "type": "string" },
+                    "title": { "type": "string" },
+                    "excerpt": { "type": "string" },
+                    "headings": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "level": { "type": "integer" },
+                          "text": { "type": "string" }
+                        },
+                        "required": ["level", "text"]
+                      }
+                    },
+                    "content": { "type": "string" },
+                    "wordCount": { "type": "integer" }
+                  },
+                  "required": ["id", "path", "scope", "title", "excerpt", "headings", "content", "wordCount"]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/fetch": {
+      "get": {
+        "summary": "舊版相容文件讀取端點",
+        "description": "舊版端點，仍可用 q 指定文件路徑，但建議改用 /api/lore/document。",
+        "operationId": "legacyFetchLoreDocument",
+        "parameters": [
+          {
+            "name": "q",
+            "in": "query",
+            "required": true,
+            "description": "舊版使用的文件相對路徑。",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "成功回傳舊版相容格式與文件內容。",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

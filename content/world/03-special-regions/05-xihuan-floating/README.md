@@ -1,0 +1,39 @@
+﻿# 曦環浮境索引
+
+## 區域主檔
+- [曦環浮境總覽](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/overview.md)
+- [文化與使命](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/culture-and-mission.md)
+- [七島風情與輪值週期](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/seven-island-flavors-and-duty-cycles.md)
+- [低浮小島與外環哨點](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/lowfloat-islets-and-outer-watchposts.md)
+- [外環外客、灰線與靜容服務](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/outer-ring-guests-graylines-and-quiet-services.md)
+- [七島晝夜政治與沉默階序](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/island-daynight-politics-and-silent-hierarchies.md)
+- [外客來源與灰線來源地矩陣](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/guest-origins-and-grayline-source-matrix.md)
+- [治理、巡空與外務秩序](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/governance-and-aerial-orders.md)
+- [社會結構與輪值階序](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/social-structure.md)
+- [律令、誓印與高空裁斷](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/laws-and-oath-judgment.md)
+- [失誤、羞恥與復位秩序](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/failure-shame-and-restoration.md)
+- [病翼、傷翼與復位照護](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/injured-wings-and-recovery-orders.md)
+- [停翼者、復位失敗者與白欄生活](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/grounded-wings-and-failed-restoration.md)
+- [稚翼養成、巢圈與成年責任](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/fledgling-roosts-and-growing-up.md)
+- [巢圈競爭、家系分歧與成年標準](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/roost-circle-rivalries-and-adulthood-standards.md)
+- [學習、成翼與空行紀律](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/education-and-flight-discipline.md)
+- [交易、外務與高空交換](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/trade-and-exchange.md)
+- [信仰、風誓與祖羽祭儀](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/faith-and-wind-vows.md)
+- [日常生活與巢居節奏](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/everyday-life-and-domestic-rhythms.md)
+- [水脈、浮流與懸瀑循環](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/hydrology-and-floating-currents.md)
+- [盤旋軌道與貿易季節](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/orbital-circuit-and-trade-seasons.md)
+- [天脈島弧總覽](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/tianmai-isle-arc/overview.md)
+- [空巡、哨站與天空交通](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/watchlines-and-sky-traffic.md)
+- [雲域生態與高空伴生物](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/ecology-and-cloudlife.md)
+- [相對距離與島際路線](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/routes-and-distance.md)
+- [特殊資源點與聖性節點](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/special-sites.md)
+
+## 地方與探索
+- [曦環浮境地方包索引](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/xihuan-location-index.md)
+- [地方包目錄](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/locations/README.md)
+- [探索點目錄](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/05-xihuan-floating/sites/README.md)
+
+## 人物與玩法
+- [曦環浮境角色索引](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/xihuan-floating/README.md)
+- [曦環浮境區域包](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/xihuan-floating/README.md)
+- [曦環浮境可玩層矩陣](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/xihuan-floating-playability-matrix.md)

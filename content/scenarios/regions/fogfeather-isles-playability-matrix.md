@@ -1,0 +1,44 @@
+﻿# 霧羽列島可玩層矩陣
+
+## 區域入口
+- [霧羽列島區域包](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/fogfeather-isles/README.md)
+- [霧羽列島總覽](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/overview.md)
+
+## 地方與探索
+- [霧羽列島地方包索引](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/fogfeather-location-index.md)
+- [河道、生態與霧潮環境](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/ecology-and-waterways.md)
+- [霧羽列島生態事件表](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/ecology-event-tables.md)
+- [水道食物網、指標物種與路況判讀](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/waterway-foodwebs-and-indicator-species.md)
+- [封樣規矩、危險採收與樣本責任](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/sample-sealing-rules-and-hazard-harvests.md)
+- [藥師公會總部與封樣秩序](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/apothecaries-guild-headquarters-and-sample-orders.md)
+- [藥師公會內部部門、棚院與封庫](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/guild-internal-houses-labs-and-sealed-sheds.md)
+- [藥材分級、沼地藥理與保存規格](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/medicinal-grades-wetland-pharmacology-and-storage.md)
+- [學徒路徑、巡採輪值與試藥誓](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/apprenticeships-field-rounds-and-oath-training.md)
+- [病潮、污染爆發與隔離封棚流程](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/outbreak-quarantine-and-sealed-vault-protocols.md)
+- [晝夜風情、淨區氣味與地方差異](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/island-daynight-flavors-and-purity-zones.md)
+- [信俗、羽幕聖所與淨泉禁例](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/faith-and-sanctuaries.md)
+- [淨區、鳳痕徵兆與清水守則](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/purity-zones-phoenix-signs-and-clean-water-protocols.md)
+- [日常生活、水道習俗與岸棚飲食](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/everyday-life-river-customs-and-diet.md)
+- [隱航暗路、假渡號與灰線規矩](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/hidden-routes-false-ferry-signals-and-graylines.md)
+- [霧季、汛流與航行曆](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/seasonal-fog-and-current-calendar.md)
+- [航路、渡點與相對距離](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/routes-and-distance.md)
+- [探索點索引](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/sites/README.md)
+
+## 人物與制度
+- [霧羽列島角色索引](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/fogfeather-isles/README.md)
+- [渡引會、聖所圈與地方主理](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/governance-and-ferry-leagues.md)
+- [交易、霧市與隱航灰線](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/trade-and-fog-markets.md)
+
+## 任務入口
+- [開局任務](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/fogfeather-isles/starter-quests.md)
+- [任務線總表](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/fogfeather-isles/questlines.md)
+- [任務細節](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/fogfeather-isles/quest-details.md)
+- [任務分支](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/fogfeather-isles/quest-branches.md)
+- [任務後果](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/fogfeather-isles/quest-consequences.md)
+- [學習入口](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/fogfeather-isles/learning-entrypoints.md)
+
+## 目前覆蓋
+- 主地方包：`8`
+- 探索點：`14`
+- 核心角色卡：`24`
+- 獨立任務檔：`24`

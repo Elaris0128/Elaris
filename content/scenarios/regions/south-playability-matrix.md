@@ -1,0 +1,19 @@
+# 南境可玩層矩陣
+
+## 政體入口
+- 洛溟港：`lormeer/`
+- 珀林穀鎮：`perlin/`
+- 穹語市坊：`skelreach/`
+
+## 場景包內容
+- `starter-overview.md`
+- `starter-quests.md`
+- `shops-and-services.md`
+- `encounters.md`
+- `location-circuit.md`
+- `questlines.md`
+- `quest-details.md`
+- `quest-branches.md`
+- `quest-consequences.md`
+- `learning-entrypoints.md`
+- `play-expansion.md`

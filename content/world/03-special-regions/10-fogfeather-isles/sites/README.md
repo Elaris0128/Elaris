@@ -1,0 +1,16 @@
+﻿# 霧羽列島探索點索引
+
+- [潮下洞](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/sites/undertide-grotto.md)
+- [隱羽碼頭](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/sites/hidden-quill-dock.md)
+- [雲渡埠](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/sites/cloudpass-wharf.md)
+- [羽幕聖所](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/sites/featherveil-sanctuary.md)
+- [霧軸井](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/sites/mistspindle-well.md)
+- [羽漂路](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/sites/plume-drift-path.md)
+- [羽潮弧](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/sites/plumetide-arcs.md)
+- [霧羽渦心](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/sites/mistfeather-maelstrom.md)
+- [白燼觀測坪](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/sites/whiteash-observation-ledge.md)
+- [淨泉封樣庫](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/sites/purespring-sample-vault.md)
+- [蘆釜試藥場](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/sites/reedretort-trial-yard.md)
+- [沼封隔棚](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/sites/marshseal-quarantine-sheds.md)
+- [澈脈藥階](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/sites/clearvein-herb-terraces.md)
+- [泥璃對照棚](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/sites/mudglass-reference-shed.md)

@@ -1,0 +1,16 @@
+﻿# 霧羽列島區域包
+
+- [開局導覽](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/fogfeather-isles/starter-overview.md)
+- [開局任務](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/fogfeather-isles/starter-quests.md)
+- [地方迴路](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/fogfeather-isles/location-circuit.md)
+- [商店與服務](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/fogfeather-isles/shops-and-services.md)
+- [遭遇表](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/fogfeather-isles/encounters.md)
+- [任務線總表](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/fogfeather-isles/questlines.md)
+- [任務細節](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/fogfeather-isles/quest-details.md)
+- [任務分支](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/fogfeather-isles/quest-branches.md)
+- [任務後果](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/fogfeather-isles/quest-consequences.md)
+- [學習入口](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/fogfeather-isles/learning-entrypoints.md)
+- [玩法補充](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/fogfeather-isles/play-expansion.md)
+- [霧羽列島總覽](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/overview.md)
+- [霧羽列島地方包索引](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/10-fogfeather-isles/fogfeather-location-index.md)
+- [霧羽列島角色索引](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/fogfeather-isles/README.md)

@@ -1,0 +1,18 @@
+# 幽語海角色索引
+
+- [潮骨衡](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/whispersea/chaoguheng.md)
+- [岬鈴娘](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/whispersea/jialingniang.md)
+- [霧舵岑](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/whispersea/wuduocen.md)
+- [返潮叔](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/whispersea/fanchaoshu.md)
+- [語環婆](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/whispersea/yuhuanpo.md)
+- [潛索青](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/whispersea/qiansuoqing.md)
+- [黑頁望](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/whispersea/heiyewang.md)
+- [鹽碑守](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/whispersea/yanbeishou.md)
+- [暗窟修](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/whispersea/ankuxiu.md)
+- [潮誓蘆](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/whispersea/chaoshilu.md)
+- [盲燈祈](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/whispersea/mangdengqi.md)
+- [息窩琛](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/whispersea/xiwochen.md)
+- [封血岑](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/whispersea/fengxuecen.md)
+- [霧汊婆](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/whispersea/wuchapo.md)
+- [礁標祈](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/whispersea/jiaobiaoqi.md)
+- [潮霧客](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/whispersea/chaowuke.md)

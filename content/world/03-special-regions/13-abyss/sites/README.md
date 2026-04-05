@@ -1,0 +1,16 @@
+﻿# 亡極徹淵高風險探索點索引
+
+- [回夢骨井](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/13-abyss/sites/return-dream-bonewell.md)
+- [殘燭回聲塔](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/13-abyss/sites/remnant-echo-tower.md)
+- [白脈折橋](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/13-abyss/sites/white-vein-broken-bridge.md)
+- [裂印剝階](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/13-abyss/sites/riven-seal-strip-stairs.md)
+- [十三面紗井](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/13-abyss/sites/thirteen-veil-shaft.md)
+- [香殼沉席窟](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/13-abyss/sites/shell-scent-sunkseat-grotto.md)
+- [胃海孵坑](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/13-abyss/sites/stomach-sea-hatchery.md)
+- [熔號斷梯](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/13-abyss/sites/melt-signal-broken-stair.md)
+- [怒骨伏炬場](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/13-abyss/sites/ragebone-shadowtorch-yard.md)
+- [奪影換名穴](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/13-abyss/sites/shadow-name-exchange-hole.md)
+- [沉金契窖](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/13-abyss/sites/sunken-gilt-contract-cellar.md)
+- [零價墜庫](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/13-abyss/sites/zero-value-fallvault.md)
+- [流亡返裂井](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/13-abyss/sites/exile-return-riftwell.md)
+- [回召黑脈梯](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/13-abyss/sites/recall-blackvein-ladder.md)

@@ -1,0 +1,22 @@
+﻿# 纏聲斷濱共同體角色席位  ## 說明 - 角色資料夾：content/world/07-characters/chansheng-duanbin/ - 支援角色名錄：content/world/07-characters/chansheng-duanbin/supporting-cast.md - 核心角色索引：content/world/07-characters/chansheng-duanbin/README.md  ## 已建立核心角色
+- 潮簧：潮窗哨笛長
+- 返燈：崖燈修補婦
+- 風汀：泊台總帳主
+- 伏浪娘：回帳主手
+- 歌砧：船骨敲驗師
+- 骨舵：沉艙繫舵師
+- 黑索岬長：沿崖守長
+- 礁琴：主鳴守
+- 礁紋束舟手：束舟與拆艙手
+- 浪北：卸索坪分配手
+- 盲潮婆：潮窗祖婆
+- 漂砥：保運總舟
+- 拾骸七：舊艙拆手
+- 束墨：黑貨換單人
+- 啼嶼老母：共議巢守
+- 霧鎖寧：外港守縛官
+- 汐潮：殘橋通潮官
+- 鹽痕記路人：記路者
+- 鹽繩嵐：黑流結算手
+- 咬羽：潮聲鳥裔礁崖守
+

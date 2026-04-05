@@ -1,0 +1,23 @@
+﻿# 焰潮洋角色索引
+
+- [珊祈衡](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/embersurge-ocean/shanqiheng.md)
+- [汀藥蘭](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/embersurge-ocean/dingyaolan.md)
+- [盜熔岑](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/embersurge-ocean/daorongcen.md)
+- [火汐叔](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/embersurge-ocean/huoxishu.md)
+- [硫弧舟](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/embersurge-ocean/liuhuzhou.md)
+- [灰瑚母](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/embersurge-ocean/huihumu.md)
+- [玄退祁](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/embersurge-ocean/xuantuiqi.md)
+- [南望簿](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/embersurge-ocean/nanwangbu.md)
+- [鍛潮遙](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/embersurge-ocean/duanchaoyao.md)
+- [蛇笭婆](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/embersurge-ocean/shelingpo.md)
+- [燼沫](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/embersurge-ocean/jinmo.md)
+- [灰槽行](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/embersurge-ocean/huicaoxing.md)
+- [封棚蘅](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/embersurge-ocean/fengpengheng.md)
+- [白巡姨](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/embersurge-ocean/baixunyi.md)
+- [黑汐簿](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/embersurge-ocean/heixibu.md)
+- [誓泊岑](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/embersurge-ocean/shibocen.md)
+- [針汐簿](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/embersurge-ocean/zhenxibu.md)
+- [灰盟估](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/embersurge-ocean/huimenggu.md)
+- [黑宴價](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/embersurge-ocean/heiyanjia.md)
+- [巡熱尉](/C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/embersurge-ocean/xunrewei.md)
+

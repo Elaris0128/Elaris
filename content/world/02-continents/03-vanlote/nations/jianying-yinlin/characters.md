@@ -1,0 +1,22 @@
+﻿# 繭影隱林角色席位  ## 說明 - 角色資料夾：content/world/07-characters/jianying-yinlin/ - 支援角色名錄：content/world/07-characters/jianying-yinlin/supporting-cast.md - 核心角色索引：content/world/07-characters/jianying-yinlin/README.md  ## 已建立核心角色
+- 毒葬息：幻花配毒師
+- 粉言：渡徑引客
+- 幻根：回聲穴記音師
+- 喚羅：枝穴獵誓首
+- 繭絲主母：主庭主母
+- 殼眠：繭燼園守
+- 珂沙黎：林間外來藥契人
+- 露綰：持燈舍主
+- 毛隱：喚隱裔林邊斥候
+- 岐蘚：林界借徑判錄官
+- 沙徑蘅：議價手
+- 絲寂：靜院總絲
+- 絲葵：夢池護名師
+- 絲幕：紡誓庭主理
+- 絲葬長姊：葬繭長姊
+- 霧縫巡路者：換徑巡守
+- 藥織母枝：藥階主理
+- 螢循：聽霧渡引路者
+- 幽池換名人：外客換名與見證者
+- 枝黯：斷枝封影手
+

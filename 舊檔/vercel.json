@@ -1,0 +1,12 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "version": 2,
+  "functions": {
+    "api/fetch.js": {
+      "includeFiles": "{content/**/*,docs/chatgpt-custom-gpt-pack/**/*}"
+    },
+    "api/lore/*.js": {
+      "includeFiles": "{content/**/*,docs/chatgpt-custom-gpt-pack/**/*}"
+    }
+  }
+}

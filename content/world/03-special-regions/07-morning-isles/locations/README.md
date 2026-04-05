@@ -1,0 +1,19 @@
+﻿# 晨穗群島地方包目錄
+
+## 主地方包
+- [晨穗埠城](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/07-morning-isles/locations/chengsui-portcity.md)
+- [潮契石庭](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/07-morning-isles/locations/tidepact-stonecourt.md)
+- [白晶埠](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/07-morning-isles/locations/whitecrystal-wharf.md)
+- [潮牙寨](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/07-morning-isles/locations/tidefang-stockade.md)
+- [屯莊市集](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/07-morning-isles/locations/tunzhang-market.md)
+- [潮汐堡](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/07-morning-isles/locations/tidewatch-fort.md)
+- [鷗盜村](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/07-morning-isles/locations/gullraider-cove.md)
+- [蘆潮莊](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/07-morning-isles/locations/reedtide-manor.md)
+- [朝羽鐘埠](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/07-morning-isles/locations/dawnfeather-bellwharf.md)
+- [塍羽糧階](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/07-morning-isles/locations/dikefeather-grainsteps.md)
+- [葦羽潛泊](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/07-morning-isles/locations/reedfeather-hidden-anchorage.md)
+- [潮羽裂泊](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/07-morning-isles/locations/tidefeather-rift-harbor.md)
+- [雙旗埠頭](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/07-morning-isles/locations/doublebanner-piers.md)
+- [礁堡島](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/07-morning-isles/locations/reefkeep-isle.md)
+- [蘆魂回燈場](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/07-morning-isles/locations/returnlight-marshyard.md)
+- [鹽羽監盤寮](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/07-morning-isles/locations/saltfeather-brineward.md)

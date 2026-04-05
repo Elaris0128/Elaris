@@ -1,0 +1,53 @@
+﻿# 潮牢群島角色索引
+
+## 核心角色
+- [序翎](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/xuling.md)
+- [岬聲](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/jiasheng.md)
+- [聆枷](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/lingjia.md)
+- [罰羽](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/fayu.md)
+- [望稜](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/wangleng.md)
+- [渦簿](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/wobu.md)
+- [囚笙](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/qiusheng.md)
+- [霧繩](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/wusheng.md)
+- [荇](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/xing.md)
+- [沉印](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/chenyin.md)
+- [鏈午](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/lianwu.md)
+- [藻筆](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/zaobi.md)
+- [簿鹽](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/buyan.md)
+- [渡魈](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/duxiao.md)
+- [骨簍](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/gulou.md)
+- [黯識](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/anshi.md)
+- [鐐序](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/liaoxu.md)
+- [燈岬](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/dengjia.md)
+- [紋籙](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/wenlu.md)
+- [沉欄](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/chenlan.md)
+- [鏽鷺](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/xiulu.md)
+- [潮痂](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/chaojia.md)
+- [缄潮](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/jianchao.md)
+- [灰翅岑](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/huichicen.md)
+- [橋祁](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/qiaoqi.md)
+- [黑符娘](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/heifuniang.md)
+- [浮鹵](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/fulu.md)
+- [湧棚叔](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/yongpengshu.md)
+
+## 支援角色
+- [支援角色名錄](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/supporting-cast.md)
+- 鐘背婆
+- 橋祁
+- 烙尺
+- 退罾
+- 泡釘
+- 鏽鷺
+- 潮痂
+- 索爍
+- 灰翅岑
+- 湧棚叔
+- 黑符娘
+- 浮鹵
+- 停槳
+- 缄潮
+- 鹵殼婆
+- 灣簫
+
+## 補充
+- 潮牢角色很少能單純以善惡分類；他們更常被 `路權、誓印、換班、工役、生還與抹名` 這些東西牽著走。

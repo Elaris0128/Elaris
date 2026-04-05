@@ -1,0 +1,70 @@
+﻿# 職業詳檔庫索引
+
+這一層收的是 `單一職業詳檔`，用來回答一個職業在世界裡到底怎麼活、怎麼被看待、怎麼出事。
+
+## 核心詳檔
+
+- [藥師](entries/apothecary.md)
+- [探索者](entries/explorer.md)
+- [引水人](entries/harbor-pilot.md)
+- [黑鍛匠](entries/blackforge-smith.md)
+- [送魂師](entries/soul-guide.md)
+- [靈廚](entries/spirit-chef.md)
+- [標本師](entries/specimen-curator.md)
+- [誓紋技匠](entries/vowmark-artificer.md)
+- [港泊管事](entries/berth-master.md)
+- [祭司](entries/priest.md)
+- [文簿官](entries/record-clerk.md)
+- [商人](entries/merchant.md)
+- [打撈手](entries/salvager.md)
+- [巡空護航者](entries/sky-escort.md)
+- [長記守庫者](entries/longmemory-keeper.md)
+- [航權司記](entries/charter-clerk.md)
+- [估價手](entries/appraiser.md)
+- [司燈者](entries/lamplighter-warden.md)
+- [抄錄員](entries/scribe-copyist.md)
+- [狩窗手](entries/hunt-window-keeper.md)
+- [空艇航手](entries/airskiff-navigator.md)
+- [果林看守人](entries/orchard-keeper.md)
+- [外緣採樣手](entries/outer-rim-sampler.md)
+- [祈名手](entries/name-invoker.md)
+- [城衛兵](entries/city-guard.md)
+- [採藥人](entries/herb-forager.md)
+- [礦工](entries/miner.md)
+- [旅灶長](entries/camp-hearthmaster.md)
+- [守墓者](entries/grave-warden.md)
+- [祖物看守人](entries/ancestral-relic-keeper.md)
+- [船長](entries/ship-captain.md)
+- [港巡兵](entries/harbor-patrol.md)
+- [稅簽官](entries/tax-signoff-officer.md)
+- [遠征後勤員](entries/expedition-quartermaster.md)
+- [供饌手](entries/ritual-caterer.md)
+- [漁戶](entries/fisherfolk.md)
+- [鍛匠](entries/smith.md)
+- [製藥師](entries/compounder.md)
+- [路線踏勘手](entries/route-surveyor.md)
+- [岬哨守燈手](entries/cape-beacon-watch.md)
+- [關卡查驗官](entries/checkpoint-inspector.md)
+- [旅店掌櫃](entries/innkeeper.md)
+- [巡演藝人](entries/roving-performer.md)
+- [情報掮客](entries/information-broker.md)
+- [療傷手](entries/field-healer.md)
+- [學者](entries/scholar.md)
+- [遺跡勘界手](entries/ruin-boundary-surveyor.md)
+- [深窟實測手](entries/deepcavern-surveyor.md)
+- [航具維養工](entries/navcraft-maintainer.md)
+- [浮流判風手](entries/skycurrent-reader.md)
+- [泊庭核名手](entries/berth-name-auditor.md)
+- [索橋保線手](entries/skybridge-linekeeper.md)
+- [巡翼哨手](entries/wing-scout.md)
+- [古文讀解手](entries/ancient-script-decipherer.md)
+- [隔棚照護員](entries/quarantine-caretaker.md)
+
+## 建議讀法
+
+- 先看 [世界職業總表](world-profession-master-index.md)
+  先理解這份工作的世界通用位置。
+- 再看 [文化職業對應矩陣](cultural-profession-mapping-matrix.md)
+  理解不同地區怎麼稱呼、怎麼理解它。
+- 最後進詳檔
+  直接拿來寫 NPC、委託、入行背景、職涯衝突與專業事故。

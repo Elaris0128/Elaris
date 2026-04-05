@@ -1,0 +1,18 @@
+﻿# 晨穗群島區域包
+
+- [開局導覽](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/morning-isles/starter-overview.md)
+- [開局任務](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/morning-isles/starter-quests.md)
+- [地方迴路](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/morning-isles/location-circuit.md)
+- [商店與服務](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/morning-isles/shops-and-services.md)
+- [遭遇表](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/morning-isles/encounters.md)
+- [任務線總表](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/morning-isles/questlines.md)
+- [任務細節](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/morning-isles/quest-details.md)
+- [任務分支](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/morning-isles/quest-branches.md)
+- [任務後果](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/morning-isles/quest-consequences.md)
+- [學習入口](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/morning-isles/learning-entrypoints.md)
+- [玩法補充](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/morning-isles/play-expansion.md)
+- [晨穗群島總覽](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/07-morning-isles/overview.md)
+- [逐島統治權與晝夜控制總表](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/07-morning-isles/island-sovereignty-and-night-control-matrix.md)
+- [海盜幫派關係與踩線矩陣](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/07-morning-isles/pirate-gang-relations-and-conflict-matrix.md)
+- [地方包索引](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/07-morning-isles/morning-isles-location-index.md)
+- [角色索引](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/morning-isles/README.md)

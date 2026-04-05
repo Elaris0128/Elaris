@@ -1,0 +1,23 @@
+# 靈穹洋探索點索引
+
+## 海上與礁帶探索
+- [誓潮柱影](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/spiritvault-sites/oathtide-pillar-shade.md)
+- [白汐封樣台](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/spiritvault-sites/whitetide-seal-platform.md)
+- [鯨眠霧槽](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/spiritvault-sites/whalesleep-mist-trench.md)
+- [裂帆殘庫](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/spiritvault-sites/riftmast-wreck-vault.md)
+- [靜藻沉池](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/spiritvault-sites/stillalgae-sunk-pool.md)
+- [空索斷虹](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/spiritvault-sites/airspline-broken-arc.md)
+- [潮窗薄洲](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/spiritvault-sites/tidewindow-thin-key.md)
+- [靈息池洞礁](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/spiritvault-sites/aetherpool-cave-reef.md)
+- [鹽鏡潮槽](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/spiritvault-sites/saltmirror-tidal-gutter.md)
+- [白枝淨池](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/spiritvault-sites/whitebranch-clean-pool.md)
+- [裂硫退潮縫](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/spiritvault-sites/riftsulfur-ebb-cracks.md)
+- [誓頁簡報階](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/spiritvault-sites/oathbrief-terrace.md)
+- [風階試途環](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/spiritvault-sites/windtrial-ring.md)
+- [申訴回聲井](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/spiritvault-sites/appeal-well.md)
+- [誓章鍛廊](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/spiritvault-sites/oathbadge-forge-gallery.md)
+- [中立調席廳](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/spiritvault-sites/neutral-mediation-bench.md)
+- [鎖浪閉泊閘](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/spiritvault-sites/lockwave-dockgate.md)
+- [無名潮標井](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/spiritvault-sites/driftmark-tidewell.md)
+- [公會換匙檐](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/spiritvault-sites/guildswitch-ledge.md)
+- [失頁沉架](/C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/12-six-oceans/spiritvault-sites/fadedpage-shelf.md)

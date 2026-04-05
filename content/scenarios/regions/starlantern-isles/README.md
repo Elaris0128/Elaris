@@ -1,0 +1,16 @@
+﻿# 星盞區域包
+
+- [開局導覽](C:/Users/rabbi/Desktop/Elaris/content/scenarios/regions/starlantern-isles/starter-overview.md)
+- [開局任務](C:/Users/rabbi/Desktop/Elaris/content/scenarios/regions/starlantern-isles/starter-quests.md)
+- [地方迴路](C:/Users/rabbi/Desktop/Elaris/content/scenarios/regions/starlantern-isles/location-circuit.md)
+- [商店與服務](C:/Users/rabbi/Desktop/Elaris/content/scenarios/regions/starlantern-isles/shops-and-services.md)
+- [遭遇表](C:/Users/rabbi/Desktop/Elaris/content/scenarios/regions/starlantern-isles/encounters.md)
+- [任務線總表](C:/Users/rabbi/Desktop/Elaris/content/scenarios/regions/starlantern-isles/questlines.md)
+- [任務細節](C:/Users/rabbi/Desktop/Elaris/content/scenarios/regions/starlantern-isles/quest-details.md)
+- [任務分支](C:/Users/rabbi/Desktop/Elaris/content/scenarios/regions/starlantern-isles/quest-branches.md)
+- [任務後果](C:/Users/rabbi/Desktop/Elaris/content/scenarios/regions/starlantern-isles/quest-consequences.md)
+- [學習入口](C:/Users/rabbi/Desktop/Elaris/content/scenarios/regions/starlantern-isles/learning-entrypoints.md)
+- [玩法補充](C:/Users/rabbi/Desktop/Elaris/content/scenarios/regions/starlantern-isles/play-expansion.md)
+- [星盞群島總覽](C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/11-starlantern-isles/overview.md)
+- [星盞地方包索引](C:/Users/rabbi/Desktop/Elaris/content/world/03-special-regions/11-starlantern-isles/starlantern-location-index.md)
+- [星盞角色索引](C:/Users/rabbi/Desktop/Elaris/content/world/07-characters/starlantern-isles/README.md)

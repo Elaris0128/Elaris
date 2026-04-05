@@ -1,0 +1,40 @@
+﻿# 潮牢群島索引
+
+## 區域主檔
+- [潮牢群島總覽](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/overview.md)
+- [潮牢群島的秩序與控制](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/culture-and-control.md)
+- [三環區帶與監押群島矩陣](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/ring-zones-and-prison-archipelago-matrix.md)
+- [晝夜控制與換班權矩陣](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/island-control-and-shift-matrix.md)
+- [押解、誓印與定罪秩序](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/law-transfer-and-oath-brand-system.md)
+- [囚犯階層、工役分級與贖放估值](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/prisoner-tiers-labor-castes-and-release-values.md)
+- [工役、賄路與獄務經濟](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/trade-bribery-and-prison-economy.md)
+- [黑市勢力、灰線派系與夜間潮路](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/black-market-factions-and-shadow-lines.md)
+- [黑市勢力關係與踩線矩陣](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/black-market-relations-and-price-war-matrix.md)
+- [黑市習俗、拍賣規矩與暗號](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/black-market-customs-auctions-and-countersigns.md)
+- [禁貨目錄、灰線服務與常見買賣](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/contraband-ledgers-and-shadow-services.md)
+- [換班暗語、橋碼與監場手勢](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/shift-slang-bridge-codes-and-yard-signs.md)
+- [囚犯次文化、互保圈與生還方式](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/prisoner-subcultures-and-survival-circles.md)
+- [鹵食、黑水藥與身體習俗](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/brine-food-medicines-and-body-practices.md)
+- [黑水生物、囚工採收與危險共生](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/blackwater-creatures-and-captive-symbioses.md)
+- [逐島監押風情與晝夜差異](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/island-by-island-custody-flavors.md)
+- [囚犯圈派系關係與生還矩陣](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/prisoner-faction-relations-and-survival-matrix.md)
+- [潮下第二地圖與暗流走廊](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/undersea-second-map-and-subtidal-corridors.md)
+- [聚點、囚路與監押迴路](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/settlements-and-prison-circuits.md)
+- [空巡、橋哨與翼人陰面使命](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/watchlines-and-skyward-oversight.md)
+- [潮季、鎖潮日與換班曆](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/tide-season-lock-calendar.md)
+- [橋道、潮脈與相對距離](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/routes-and-distance.md)
+- [日常生活、流言與監場習俗](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/everyday-life-rumors-and-yard-customs.md)
+- [黑水底層與潮下灰路](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/underlayers-and-blackwater.md)
+- [黑水生態與潮牢魔物環境](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/ecology-and-blackwater.md)
+- [信仰、誓紋與獄中禁忌](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/faith-and-oath-practices.md)
+- [特殊資源點](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/special-resource-points.md)
+
+## 地方與探索
+- [潮牢群島地方包索引](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/tide-prison-location-index.md)
+- [地方包目錄](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/locations/README.md)
+- [探索點目錄](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/03-special-regions/09-tide-prison-isles/sites/README.md)
+
+## 人物與玩法
+- [潮牢群島角色索引](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/world/07-characters/tide-prison-isles/README.md)
+- [潮牢群島區域包](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/tide-prison-isles/README.md)
+- [潮牢群島可玩層矩陣](C:/Users/rabbi/OneDrive/Desktop/Elaris/content/scenarios/regions/tide-prison-isles-playability-matrix.md)
