@@ -79,7 +79,7 @@ AI 使用方式：
 | `mujing` | 暮鏡荒境 | 同上 |
 | `durocral` | 杜羅山邦 | 同上 |
 | `duromok` | 杜魯摩克隱域 | 同上 |
-| `sadren` | 薩德原遷營 | 同上 |
+| `sadren` | 薩德原聯盟 | 同上 |
 | `nieesi` | 涅厄斯魔人國 | 同上 |
 | `seteia` | 瑟堤亞棲國 | 同上 |
 | `skyrend-roost` | 雲裂哨站 | 同上 |

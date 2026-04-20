@@ -1,83 +1,102 @@
-# Elaris 電腦文字遊戲層
+﻿# Elaris 文字遊戲框架
 
-這個資料夾是給 `電腦文字遊戲版本` 用的。
+這裡放的是 `Elaris` 電腦文字遊戲本體的設計、資料格式、執行狀態、AI 護欄、原型，以及之後要擴成完整遊戲的框架層。
 
-它和 `content/game` 的分工是：
+它和 [content/game](/C:/Users/rabbi/Desktop/Elaris/content/game/README.md) 的分工是：
 
 - `content/game`
-  放世界規則、玩家卡、職業、物品、戰鬥、成長、任務、開局規則等 `原始規則資料`
+  這裡是玩家規則、卡庫、橋接資料與世界內可玩的原始內容
 - `text-game`
-  放真正要把這些規則跑起來的 `執行層`
+  這裡是把那些內容變成「真的能執行」的遊戲骨架、資料格式、狀態模型、原型與框架程式
 
-也就是說：
-
-- `content/game` 是 `世界與規則資料庫`
-- `text-game` 是 `遊戲系統與運行框架`
-
-## 為什麼要分開
-
-如果不分開，之後很容易把：
-- 世界觀原稿
-- 玩家規則
-- AI 主持提示
-- 遊戲執行狀態
-- 存檔
-- 編譯後資料
-
-全部混在一起。
-
-一旦要改系統、換 UI、換存檔格式，會很痛苦。
-
-## 目前建議的結構
+## 目前結構
 
 - `01-design`
-  放這款遊戲到底怎麼玩的設計稿
+  遊戲範圍、核心迴圈、第一版可玩切片
 - `02-data`
-  放從 `content/game`、`content/world` 整理過來給遊戲用的資料層
+  把 `content/game` / `content/world` / `content/scenarios` 編成遊戲可讀資料的格式
 - `03-runtime`
-  放狀態、存檔、世界時鐘、任務進度等執行中資料模型
+  存檔、狀態、回合流程與場景循環
 - `04-ai`
-  放 AI 主持、敘事、查證、護欄規則
+  AI 敘事與護欄原則
 - `05-prototypes`
-  放日後你要做的 CLI、網頁版、桌面版原型
+  單區原型、CLI 驗證與可玩的切片
+- `06-framework`
+  整個文字遊戲的正式入口、區域註冊表與可擴充模組骨架
+- `07-ui-shell`
+  一般遊戲畫面風格的 UI 原型，先把按鈕、面板與 HUD 骨架定下來
 
-## 建議工作流
+## 目前狀態
 
-1. 先在 `content/game` 與 `content/world` 繼續養資料
-2. 再把真正需要執行的資料整理進 `text-game/02-data`
-3. 把遊戲流程、狀態、回合、任務、世界反應整理進 `03-runtime`
-4. 最後再做實際介面或程式原型
+目前最完整的可玩區域是：
 
-## 現階段最重要的事
+- [幽語海 CLI 原型說明](/C:/Users/rabbi/Desktop/Elaris/text-game/05-prototypes/whispersea-cli-prototype.md)
+- [幽語海 CLI 原型腳本](/C:/Users/rabbi/Desktop/Elaris/text-game/05-prototypes/whispersea-cli-prototype.ps1)
+- [幽語海 region pack v1](/C:/Users/rabbi/Desktop/Elaris/text-game/02-data/regions/whispersea-region-pack-v1.json)
 
-先把以下幾件事定清楚：
+而整個遊戲框架的入口則是：
 
-1. 遊戲的最小核心迴圈
-2. 什麼資料直接讀原始檔，什麼資料要編譯成遊戲用格式
-3. AI 主持可以自由發揮到哪裡，哪裡只能照資料走
-4. 存檔至少要記哪些欄位
+- [遊戲啟動器](/C:/Users/rabbi/Desktop/Elaris/text-game/play-elaris.ps1)
+- [框架總覽](/C:/Users/rabbi/Desktop/Elaris/text-game/06-framework/framework-overview.md)
+- [框架說明](/C:/Users/rabbi/Desktop/Elaris/text-game/06-framework/README.md)
+- [切片註冊表](/C:/Users/rabbi/Desktop/Elaris/text-game/06-framework/config/slices.registry.json)
+- [遊戲畫面 UI 原型](/C:/Users/rabbi/Desktop/Elaris/text-game/07-ui-shell/README.md)
 
-## 現在已經補好的第一版規格
+## 框架方向
 
-- [遊戲範圍與核心迴圈](C:/Users/rabbi/Desktop/Elaris/text-game/01-design/game-scope-and-core-loop.md)
-- [第一版可玩切片](C:/Users/rabbi/Desktop/Elaris/text-game/01-design/first-playable-slice.md)
-- [資料層規劃](C:/Users/rabbi/Desktop/Elaris/text-game/02-data/data-layer-plan.md)
-- [執行狀態模型](C:/Users/rabbi/Desktop/Elaris/text-game/03-runtime/runtime-state-model.md)
-- [指令循環與場景流程](C:/Users/rabbi/Desktop/Elaris/text-game/03-runtime/command-loop-and-scene-flow.md)
-- [存檔格式 v1](C:/Users/rabbi/Desktop/Elaris/text-game/03-runtime/save-format-v1.md)
-- [AI 敘事與護欄](C:/Users/rabbi/Desktop/Elaris/text-game/04-ai/ai-narration-and-guardrails.md)
-- [原型區](C:/Users/rabbi/Desktop/Elaris/text-game/05-prototypes/README.md)
+這套文字遊戲目前採用：
 
-## 建議下一步
+- `資料固定`
+  世界觀、任務、NPC、物品、地區、職業與遭遇都有明確來源
+- `規則固定`
+  狀態、任務推進、好感、同行、存檔、區域循環與成長是可驗證的
+- `敘事可延展`
+  之後可接 AI 或模板敘事，但不允許改動正典事實
 
-如果要繼續往下做，最順的順序會是：
-1. 先把 `一個起始區域` 的場景、任務、NPC 編譯成遊戲資料
-2. 再做 `CLI 單區原型`
-3. 接著把 `存檔 / 讀檔` 跑通
-4. 最後才接 AI 敘事層
+也就是說，目標不是做成「全靠 AI 即興」的作品，而是：
 
-## 對應入口
+`一個世界與規則穩定、敘事自由度高的文字遊戲`
 
-- [遊戲規則總索引](C:/Users/rabbi/Desktop/Elaris/content/game/README.md)
-- [玩家快速上手套件](C:/Users/rabbi/Desktop/Elaris/content/game/00-player-kit/README.md)
-- [玩家白身開局與後定職模式](C:/Users/rabbi/Desktop/Elaris/content/game/00-player-kit/player-blank-slate-opening-mode.md)
+## 啟動方式
+
+若你要從整個遊戲框架入口進去，而不是直接跑單一 prototype，可用：
+
+```powershell
+powershell -ExecutionPolicy Bypass -File "C:\Users\rabbi\Desktop\Elaris\text-game\play-elaris.ps1"
+```
+
+目前這個入口會先帶你進框架層，再選要進哪個可玩切片。
+
+現在主框架選單也已經支援：
+
+- `查看框架狀態`
+- `查看存檔總覽`
+
+如果你不想手打指令，現在可以直接在資料夾裡雙擊：
+
+- [啟動-Elaris-文字遊戲框架.bat](/C:/Users/rabbi/Desktop/Elaris/text-game/啟動-Elaris-文字遊戲框架.bat)
+  進入整個文字遊戲框架入口
+- [啟動-Elaris-遊戲畫面原型.bat](/C:/Users/rabbi/Desktop/Elaris/text-game/07-ui-shell/啟動-Elaris-遊戲畫面原型.bat)
+  直接打開一般遊戲畫面風格的 UI 原型
+
+## 目前最重要的文件
+
+- [遊戲範圍與核心迴圈](/C:/Users/rabbi/Desktop/Elaris/text-game/01-design/game-scope-and-core-loop.md)
+- [第一版可玩切片](/C:/Users/rabbi/Desktop/Elaris/text-game/01-design/first-playable-slice.md)
+- [資料層規劃](/C:/Users/rabbi/Desktop/Elaris/text-game/02-data/data-layer-plan.md)
+- [編譯資料格式 v1](/C:/Users/rabbi/Desktop/Elaris/text-game/02-data/compiled-data-format-v1.md)
+- [執行狀態模型](/C:/Users/rabbi/Desktop/Elaris/text-game/03-runtime/runtime-state-model.md)
+- [指令循環與場景流程](/C:/Users/rabbi/Desktop/Elaris/text-game/03-runtime/command-loop-and-scene-flow.md)
+- [存檔格式 v1](/C:/Users/rabbi/Desktop/Elaris/text-game/03-runtime/save-format-v1.md)
+- [AI 敘事與護欄](/C:/Users/rabbi/Desktop/Elaris/text-game/04-ai/ai-narration-and-guardrails.md)
+- [原型區索引](/C:/Users/rabbi/Desktop/Elaris/text-game/05-prototypes/README.md)
+- [框架總覽](/C:/Users/rabbi/Desktop/Elaris/text-game/06-framework/framework-overview.md)
+
+## 下一步最自然的擴充
+
+- 把 `幽語海` 的互動再往更長線的區域生活推進
+- 讓 `06-framework` 變成多區域共用的主框架，而不只是啟動器
+- 做第二個區域包，驗證跨區複用
+- 再往後接成真正的 `長團 / 世界時鐘 / 跨區存檔`
+
+

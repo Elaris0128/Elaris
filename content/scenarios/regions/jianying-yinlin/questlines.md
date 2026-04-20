@@ -1,15 +1,44 @@
-# 繭影隱林任務線總表
+﻿# 繭影隱林任務線
 
-## 任務線
-1. `主庭外路`：國家主線。誰讓不該存在的路對外人打開。
-2. `枝穴失伴`：枝穴線。某位喚隱裔獵誓者失去靈誓伴。
-3. `花霧換徑毒價`：商路線。毒花價格與供應被人動了手腳。
-4. `繭息封光祭林`：探索線。祭林裡的封光正在鬆開。
-5. `送魂園禁花`：儀式線。不該出現在送魂園的花出現了。
-6. `喚隱誓獵`：狩獵線。枝穴聖林要決定一場不尋常的追獵是否合法。
-7. `被林記住的名字`：身份線。林對某個外來名字反應過度。
-8. `低語花潭共夢`：夢兆線。花潭共夢被第三個聲音闖入。
-9. `封光谷火痕`：環境線。林中出現不自然的火痕。
-10. `林內共宗`：信仰線。內林不同儀式解釋開始彼此衝撞。
-11. `柯沙里水路密約`：跨族線。水路人與林內的舊約被人翻出。
-12. `母繭深層未封之口`：長線。某個更古老的東西從未真正被關上。
+## 任務線分類
+1. `名字與記憶線`
+2. `共夢與禁花線`
+3. `換徑與節市線`
+4. `祭林與封光線`
+5. `誓序與外來摩擦線`
+
+## 名字與記憶線
+- [被記住的名字](../../quests/jianying-yinlin-name-remembered.md)
+- [失伴帶回](../../quests/jianying-yinlin-lost-companion.md)
+- [外路失準](../../quests/jianying-yinlin-outerroad.md)
+
+這條線重點在：
+- 地方為什麼這麼在意誰被記住、誰被帶回、誰被允准進入下一段路。
+
+## 共夢與禁花線
+- [共夢潭](../../quests/jianying-yinlin-shared-dream-pond.md)
+- [禁葬花](../../quests/jianying-yinlin-forbidden-funeral-bloom.md)
+
+這條線重點在：
+- 共夢後遺、禁花、送別儀序與地方不能被外人隨意觸碰的記憶秩序。
+
+## 換徑與節市線
+- [花霧換徑毒價](../../quests/jianying-yinlin-poisoned-price.md)
+- [柯沙里曲水舊約](../../quests/jianying-yinlin-koshari-water-pact.md)
+
+這條線重點在：
+- 路權、節市、谷寨水行、跨族舊約與地方交易秩序。
+
+## 祭林與封光線
+- [繭息封光祭林](../../quests/jianying-yinlin-cocoonlight-ritualgrove.md)
+- [母繭深層未封之口](../../quests/jianying-yinlin-unsealed-mothercocoon.md)
+
+這條線重點在：
+- 祭林、封光技藝、深層禁地與更古老的封存問題。
+
+## 誓序與外來摩擦線
+- [共信摩擦](../../quests/jianying-yinlin-shared-faith-friction.md)
+- [狩誓](../../quests/jianying-yinlin-hunt-oath.md)
+
+這條線重點在：
+- 不同群體怎麼理解誓序、信任與外來規則，以及當地方秩序被逼到邊緣時，誰先退、誰先守。

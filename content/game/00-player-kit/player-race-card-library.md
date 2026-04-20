@@ -19,9 +19,9 @@
 - `巖穹族`
   傾向石城、斷崖、礦脈與高地工程。
 - `薩魯恩人`
-  傾向原遷營、乾地行旅、集營與移動社群。
+  傾向裂紋沙原、綠洲井帶、乾地行旅與守水聚點秩序。
 - `柯沙里人`
-  傾向森林外緣、水林、花隱與邊境採集。
+  傾向霧林溪谷、寨居水路、織紋銀飾與歌路文化。
 - `諾魯因人`
   傾向幽語海、潮窟、水路法與潮骨血息文化。
 
@@ -53,3 +53,5 @@
 - [玩家種族與分支怎麼選](C:/Users/rabbi/Desktop/Elaris/content/game/00-player-kit/player-race-and-branch-selection-guide.md)
 - [玩家分支清單](C:/Users/rabbi/Desktop/Elaris/content/game/00-player-kit/player-race-branch-library.md)
 - [玩家分支卡庫](C:/Users/rabbi/Desktop/Elaris/content/game/00-player-kit/player-branch-card-library.md)
+
+

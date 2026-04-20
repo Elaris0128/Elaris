@@ -1,38 +1,41 @@
-# 北境地方包索引
+﻿# 北境位置索引
 
-## 北境共通參考
-- `north-distance-reference.md`
-- `north-route-matrix.md`
-- `north-travel-and-survival.md`
-- `north-resource-index.md`
-- `north-exploration-index.md`
-
-## 盧米昂寒國
-- `nations/lumiang/settlements.md`
-- 冰冠港：`nations/lumiang/locations/icecrown-port.md`
-- 霜道關隘：`nations/lumiang/locations/frostroad-gate.md`
-- 寒牙集市：`nations/lumiang/locations/coldfang-market.md`
-- 雪橋村：`nations/lumiang/locations/snowbridge-village.md`
-- 冰脈驛站：`nations/lumiang/locations/icevein-waystation.md`
-- 灰燈塔聚：`nations/lumiang/locations/graybeacon-watch.md`
+## 用法
+- 這份索引只列 `北境現行有效主體` 的核心聚落與場域。
+- 路徑採現有地點主檔，不再把 `洛溟港` 納入北境索引。
 
 ## 雪華部族
-- `nations/xuehua/settlements.md`
-- 雪華母樹議域：`nations/xuehua/locations/motherbloom-council-grove.md`
-- 雪影市集：`nations/xuehua/locations/snowshade-market.md`
-- 冰瓣部落：`nations/xuehua/locations/icepetal-hamlet.md`
+- `母花議林`
+  - path: `nations/xuehua/locations/motherbloom-council-grove.md`
+  - 功能：部族共議、命名承認與誓約見證的核心場域。
+- `雪蔭市`
+  - path: `nations/xuehua/locations/snowshade-market.md`
+  - 功能：寒地交易、節令窗口與外來互市的主要入口。
+- `冰瓣聚落`
+  - path: `nations/xuehua/locations/icepetal-hamlet.md`
+  - 功能：雪地聚居、牧群照護與部族日常節奏的代表聚點。
 
 ## 暮鏡荒境
-- `nations/mujing/settlements.md`
-- 裂雪原大誓圈：`nations/mujing/locations/riftsnow-great-oath-ring.md`
-- 風爪原營地：`nations/mujing/locations/windclaw-camp.md`
-- 深暮氈坡冬聚地：`nations/mujing/locations/deepdusk-felt-slope.md`
+- `裂雪大誓環`
+  - path: `nations/mujing/locations/riftsnow-great-oath-ring.md`
+  - 功能：重申舊誓、判定停戰、重畫可行狩路的象徵場域。
+- `風爪營`
+  - path: `nations/mujing/locations/windclaw-camp.md`
+  - 功能：移動營地、追跡隊與寒荒守路者的主要停留點。
+- `深暮氈坡`
+  - path: `nations/mujing/locations/deepdusk-felt-slope.md`
+  - 功能：冬窗停留、亡者記憶安置與邊境壓力最重的坡地聚點。
 
 ## 星紋古道
-- `nations/xingwen-road/settlements.md`
-- 徙路集市：`nations/xingwen-road/locations/wayfarers-fair.md`
-- 星碑宿地：`nations/xingwen-road/locations/starstelae-lodge.md`
-- 夜行守望站：`nations/xingwen-road/locations/nightwatch-waypost.md`
+- `行旅市集`
+  - path: `nations/xingwen-road/locations/wayfarers-fair.md`
+  - 功能：流動交換、宿站補給與過路人互通消息的市場節點。
+- `星紋宿`
+  - path: `nations/xingwen-road/locations/starstelae-lodge.md`
+  - 功能：留宿、校線、碑記比對與可信路線見證。
+- `夜望路驛`
+  - path: `nations/xingwen-road/locations/nightwatch-waypost.md`
+  - 功能：夜行回報、導燈維護與危險路段告示。
 
-## 完成度
-- 北境目前 15 個主地方包均已補齊 people / shops / relations / events / wares / sidequests / buildings / stalls 延伸層。
+## Legacy Note
+- `nations/lumiang/` 在北境路徑下目前僅保留為舊路徑註記；現行正典的 `洛溟港` 請改查 `賽勒亞大陸 / 南境 / lormeer`。

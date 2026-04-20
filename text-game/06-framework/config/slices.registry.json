@@ -1,0 +1,13 @@
+﻿[
+  {
+    "id": "whispersea",
+    "title": "幽語海",
+    "subtitle": "白身開局單區原型",
+    "status": "playable",
+    "progress": "單區完整循環",
+    "entryScript": "05-prototypes\\whispersea-cli-prototype.ps1",
+    "saveDirectory": "05-prototypes\\saves",
+    "notes": "目前最完整的區域切片，已支援白身開局、三條 starter quest、NPC 好感、同行、同行成長與同行支線。"
+  }
+]
+

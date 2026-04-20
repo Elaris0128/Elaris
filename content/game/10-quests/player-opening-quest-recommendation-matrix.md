@@ -44,7 +44,7 @@
 | 暮鏡荒境 | `mujing` | 2 | 同上 |
 | 杜羅山邦 | `durocral` | 2 | 同上 |
 | 杜魯摩克隱域 | `duromok` | 2 | 同上 |
-| 薩德原遷營 | `sadren` | 2 | 同上 |
+| 薩德原聯盟 | `sadren` | 2 | 同上 |
 | 涅厄斯魔人國 | `nieesi` | 2-3 | 同上 |
 | 瑟堤亞棲國 / 雲裂哨站 | `seteia / skyrend-roost` | 2 | 同上 |
 | 任一精靈主域 | 對應精靈 region package | 2 | 讀該域 starter docs |

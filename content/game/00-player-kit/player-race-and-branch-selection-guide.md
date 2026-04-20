@@ -48,10 +48,10 @@
 
 ## 獸人怎麼選
 先選 `獸人`，再選正式支系。  
-如果你選的是 `十獸之環`，可以再選一次內部席位。  
+如果你選的是 `十獸之環`，必須直接從十個實際可選分支中選一個。  
 如果你選的是 `暮鏡荒境四獸裔`，則直接把那四支視為玩家可選的正式獸人支系。
 
-### 十獸之環可再細選的席位
+### 十獸之環實際可選分支
 - `馭角`
 - `逐影`
 - `鷹目`
@@ -89,7 +89,7 @@
 ## AI / 主持的判定規則
 - 玩家只說 `海人 / 精靈 / 獸人 / 魔人`：必須追問分支。
 - 玩家說 `諾魯因人 / 極光徙裔 / 矮人 / 翼人`：直接視為種族選擇完成。
-- 玩家說 `十獸之環`：可再追問是否細選席位。
+- 玩家說 `十獸之環`：必須請玩家從馭角、逐影、鷹目、裂牙、斑影、隱耳、馭嶺、蟄蛇、裂痕、冥羽中選一個。
 - 玩家說 `月影狼裔 / 霜爪熊裔 / 影尾狐裔 / 暮羽雀裔`：直接視為獸人分支已完成。
 
 ## 對照入口
@@ -97,3 +97,5 @@
 - [玩家分支清單](C:/Users/rabbi/Desktop/Elaris/content/game/00-player-kit/player-race-branch-library.md)
 - [種族出身地與起始區域規則](C:/Users/rabbi/Desktop/Elaris/content/game/00-player-kit/player-race-origin-and-start-region-rule.md)
 - [玩家起始區域與開局包對照表](C:/Users/rabbi/Desktop/Elaris/content/game/00-player-kit/player-start-region-and-opening-pack-matrix.md)
+
+

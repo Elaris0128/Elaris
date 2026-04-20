@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Elaris 文字遊戲 UI 原型</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="app-shell menu-mode" id="app-shell">
+    <aside class="left-rail" id="left-rail">
+      <div class="brand-block">
+        <button class="brand-mark brand-toggle" id="left-rail-brand-toggle" type="button" aria-label="收起系統欄" title="收起系統欄">E</button>
+        <div>
+          <p class="eyebrow">Text Game Shell</p>
+          <h1>Elaris</h1>
+        </div>
+      </div>
+
+      <nav class="primary-nav">
+        <button class="nav-btn" data-screen="menu">主選單</button>
+        <button class="nav-btn" data-modal="setup">新遊戲</button>
+        <button class="nav-btn" data-modal="continue">再續篇章</button>
+        <button class="nav-btn" data-modal="pause">暫停</button>
+        <button class="nav-btn" data-modal="save-catalog">存檔總覽</button>
+        <button class="nav-btn" data-modal="settings">設定</button>
+        <button class="nav-btn" data-modal="notice">更新說明</button>
+      </nav>
+
+      <section class="rail-section">
+        <p class="section-label">系統狀態</p>
+        <div class="status-stack">
+          <div class="status-card"><span>目前切片</span><strong id="system-current-slice">幽語海</strong></div>
+          <div class="status-card"><span>遊戲模式</span><strong id="system-current-mode">首頁模式</strong></div>
+          <div class="status-card"><span>介面狀態</span><strong id="system-ui-state">系統欄收起 / 冒險簿收起</strong></div>
+        </div>
+      </section>
+    </aside>
+
+    <button class="side-toggle left-rail-toggle" id="left-rail-toggle" type="button" aria-label="展開系統欄" title="展開系統欄">E</button>
+
+    <main class="main-stage">
+      <section class="screen is-active" id="screen-menu">
+        <div class="landing-shell">
+          <div class="landing-backdrop"></div>
+          <div class="landing-panel">
+            <p class="eyebrow">White-slate Adventure</p>
+            <h2>Elaris</h2>
+            <p class="landing-copy">
+              從白身開始，在世界裡慢慢活成你想要的樣子。先不急著決定一切，先踏進海風、潮聲與路線還沒看清的地方。
+            </p>
+            <div class="landing-actions">
+              <button class="primary-btn landing-btn" data-modal="setup">開始遊玩</button>
+              <button class="secondary-btn landing-btn" data-modal="continue">再續篇章</button>
+              <button class="ghost-btn landing-btn" data-modal="settings">設定</button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="screen" id="screen-ingame">
+        <article class="ingame-banner">
+          <div>
+            <p class="eyebrow">篇章開場</p>
+            <h3 id="ingame-banner-title">幽語海．白身起步</h3>
+          </div>
+          <p id="ingame-banner-copy">
+            你還不是什麼有名有姓的職業者，只是剛好還沒被海趕走的人。故事會從你第一個看懂的細節開始，也會從你第一個沒看懂的錯誤慢慢長成。
+          </p>
+        </article>
+
+        <section class="story-only-column">
+          <article class="opening-panel">
+            <div>
+              <p class="eyebrow">開場</p>
+              <h3 id="opening-title">潮聲先於道路</h3>
+            </div>
+            <p id="opening-copy">
+              你現在還不是什麼有名有姓的職業者，只是剛好還沒被海趕走的人。幽語海不會先問你想成為誰，它只會先問：你看不看得懂哪條路還能活。
+            </p>
+          </article>
+
+          <article class="story-panel">
+            <div class="scene-header">
+              <div>
+                <p class="eyebrow">主要敘事</p>
+                <h3 id="scene-location-title">潮息海窟</h3>
+              </div>
+              <button class="inline-btn" data-drawer="map">地圖</button>
+            </div>
+
+            <div class="story-copy" id="scene-copy"></div>
+
+            <div class="choice-grid" id="choice-grid"></div>
+          </article>
+        </section>
+      </section>
+    </main>
+
+    <aside class="right-rail is-collapsed" id="right-rail">
+      <div class="right-rail-head">
+        <div>
+          <p class="eyebrow">Adventure Log</p>
+          <h3>冒險簿</h3>
+        </div>
+        <button class="drawer-close" id="right-rail-close" type="button">收起</button>
+      </div>
+
+      <section class="summary-card">
+        <p class="section-label">角色速覽</p>
+        <div class="summary-body" id="summary-body"></div>
+      </section>
+
+      <div class="drawer-dock">
+        <button class="dock-btn" data-drawer="quests" type="button">任務</button>
+        <button class="dock-btn" data-drawer="inventory" type="button">背包</button>
+        <button class="dock-btn" data-drawer="companions" type="button">同行</button>
+        <button class="dock-btn" data-drawer="relations" type="button">關係</button>
+        <button class="dock-btn" data-drawer="map" type="button">地圖</button>
+      </div>
+
+      <section class="drawer-shell" id="drawer-shell">
+        <div class="drawer-shell-head">
+          <h4 id="drawer-title">任務</h4>
+          <button class="drawer-close" id="drawer-close" type="button">收起</button>
+        </div>
+        <div class="drawer-body" id="drawer-body"></div>
+      </section>
+    </aside>
+
+    <button class="side-toggle right-rail-toggle" id="right-rail-toggle" type="button" aria-label="展開冒險簿" title="展開冒險簿">冒險簿</button>
+    <section class="adventure-popout" id="adventure-popout" hidden>
+      <div class="adventure-popout-card">
+        <div class="adventure-popout-head">
+          <div>
+            <p class="eyebrow">Adventure Panel</p>
+            <h3 id="adventure-popout-title">任務</h3>
+          </div>
+          <button class="drawer-close" id="adventure-popout-close" type="button">關閉</button>
+        </div>
+        <div class="adventure-popout-body" id="adventure-popout-body"></div>
+      </div>
+    </section>
+  </div>
+
+  <div class="modal" id="modal-notice" hidden>
+    <div class="modal-card">
+      <div class="modal-head">
+        <h3 id="notice-title">更新說明</h3>
+        <button class="drawer-close" data-close-modal="notice" type="button">關閉</button>
+      </div>
+      <div class="modal-body" id="notice-body"></div>
+    </div>
+  </div>
+
+  <div class="modal" id="modal-setup" hidden>
+    <div class="modal-card wide">
+      <div class="modal-head">
+        <h3>開始遊玩</h3>
+        <button class="drawer-close" data-close-modal="setup" type="button">關閉</button>
+      </div>
+      <div class="setup-stepper" id="setup-stepper"></div>
+      <div class="setup-layout">
+        <section class="setup-choice-column">
+          <section class="setup-panel setup-step is-active" data-step="1">
+            <p class="section-label">步驟 1</p>
+            <h4>選擇白身身分</h4>
+            <p class="setup-copy">白身身分會先決定你的開局方向：尋憶、劫後，或日常生活。它不是職業，只是你踏進世界的第一個姿勢。</p>
+            <div class="select-grid" id="setup-identities"></div>
+          </section>
+
+          <section class="setup-panel setup-step" data-step="2">
+            <p class="section-label">步驟 2</p>
+            <h4>選擇年齡階段</h4>
+            <p class="setup-copy">年齡不填精確數字，而是用生命階段描述。不同種族壽命不同，但「初行、青壯、熟路、遲起」都能被敘事理解。</p>
+            <div class="select-grid compact-grid" id="setup-age-stages"></div>
+          </section>
+
+          <section class="setup-panel setup-step" data-step="3">
+            <p class="section-label">步驟 3</p>
+            <h4>選擇性別 / 稱謂</h4>
+            <p class="setup-copy">這會影響旁白稱謂與部分文化互動，不會限制能力或職業。漂泊者也可以先選擇暫不揭示。</p>
+            <div class="select-grid compact-grid" id="setup-genders"></div>
+          </section>
+
+          <section class="setup-panel setup-step" data-step="4">
+            <p class="section-label">步驟 4</p>
+            <h4>選擇種族</h4>
+            <p class="setup-copy">先選大種族。人類、海人、精靈、獸人、魔人等會在下一步再選分支或具體族群。</p>
+            <div class="select-grid" id="setup-race-groups"></div>
+          </section>
+
+          <section class="setup-panel setup-step" data-step="5">
+            <p class="section-label">步驟 5</p>
+            <h4>選擇分支 / 具體族群</h4>
+            <p class="setup-copy">這一步會依照你剛剛選的大種族列出可選分支。直接種族也會在這裡做一次確認，避免 AI 把出身地判錯。</p>
+            <div class="select-grid" id="setup-races"></div>
+          </section>
+
+          <section class="setup-panel setup-step" data-step="6">
+            <p class="section-label">步驟 6</p>
+            <h4>選擇起始區域</h4>
+            <p class="setup-copy">漂泊者可選任意開放區域；流離者適合邊境、避難點或危險區；在地者預設回到種族或分支對應地區。</p>
+            <div class="select-grid" id="setup-slices"></div>
+          </section>
+
+          <section class="setup-panel setup-step" data-step="7">
+            <p class="section-label">步驟 7</p>
+            <h4>選擇城市 / 鄉鎮 / 落點</h4>
+            <p class="setup-copy">這裡只會列出該起始區域裡能開局的城市、鄉鎮或地方落點。不同落點會決定第一個事件與遇見的人。</p>
+            <div class="select-grid" id="setup-starts"></div>
+          </section>
+
+          <section class="setup-panel setup-step" data-step="8">
+            <p class="section-label">步驟 8</p>
+            <h4>選擇個人傾向</h4>
+            <p class="setup-copy">這些不是職業，而是你一開始面對世界時最自然的反應方式，會影響敘事判定與第一印象。</p>
+            <div class="setup-section-block">
+              <h5>關注點</h5>
+              <div class="select-grid compact-grid" id="setup-interests"></div>
+            </div>
+
+            <div class="setup-section-block">
+              <h5>性格</h5>
+              <div class="select-grid compact-grid" id="setup-personalities"></div>
+            </div>
+
+            <div class="setup-section-block">
+              <h5>小習慣</h5>
+              <div class="select-grid compact-grid" id="setup-habits"></div>
+            </div>
+          </section>
+
+          <section class="setup-panel setup-step" data-step="9">
+            <p class="section-label">步驟 9</p>
+            <h4>輸入姓名</h4>
+            <p class="setup-copy">名字可以先簡單，甚至先留空。你真正是誰，會在之後的選擇裡慢慢長出來。</p>
+            <label class="setting-row">
+              <span>角色姓名</span>
+              <input id="player-name-input" type="text" placeholder="留空則使用無名旅人">
+            </label>
+          </section>
+        </section>
+
+        <aside class="setup-summary-column">
+          <section class="setup-summary-card" id="setup-summary"></section>
+        </aside>
+      </div>
+
+      <div class="setup-footer">
+        <div class="hero-actions setup-actions">
+          <button class="secondary-btn" data-close-modal="setup" type="button">取消</button>
+          <button class="ghost-btn" id="setup-back" type="button">上一步</button>
+          <button class="secondary-btn" id="setup-next" type="button">下一步</button>
+          <button class="primary-btn" id="confirm-start" type="button">開始遊玩</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal" id="modal-continue" hidden>
+    <div class="modal-card">
+      <div class="modal-head">
+        <h3>再續篇章</h3>
+        <button class="drawer-close" data-close-modal="continue" type="button">關閉</button>
+      </div>
+      <div class="modal-body" id="continue-body"></div>
+    </div>
+  </div>
+
+  <div class="modal" id="modal-pause" hidden>
+    <div class="modal-card">
+      <div class="modal-head">
+        <h3>暫停</h3>
+        <button class="drawer-close" data-close-modal="pause" type="button">關閉</button>
+      </div>
+      <div class="modal-body">
+        <p>你暫時把故事停在這裡。可以先整理一下，再回來接著走。</p>
+      </div>
+      <div class="hero-actions">
+        <button class="secondary-btn" data-close-modal="pause" type="button">回到遊戲</button>
+        <button class="ghost-btn" data-action="back-to-menu" type="button">回到主選單</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal" id="modal-save-catalog" hidden>
+    <div class="modal-card">
+      <div class="modal-head">
+        <h3>存檔總覽</h3>
+        <button class="drawer-close" data-close-modal="save-catalog" type="button">關閉</button>
+      </div>
+      <div class="modal-body" id="save-catalog-body"></div>
+    </div>
+  </div>
+
+  <div class="modal" id="modal-settings" hidden>
+    <div class="modal-card">
+      <div class="modal-head">
+        <h3>設定</h3>
+        <button class="drawer-close" data-close-modal="settings" type="button">關閉</button>
+      </div>
+      <div class="modal-body setting-list">
+        <label class="setting-row"><span>柔化背景</span><input id="setting-soft-background" type="checkbox"></label>
+        <label class="setting-row"><span>顯示開場敘事</span><input id="setting-show-opening" type="checkbox" checked></label>
+        <label class="setting-row"><span>顯示角色速覽</span><input id="setting-show-summary" type="checkbox" checked></label>
+      </div>
+    </div>
+  </div>
+
+  <pre class="debug-panel" id="debug-panel" hidden></pre>
+
+  <script src="./prototype-data.js"></script>
+  <script src="./generated-data.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>
